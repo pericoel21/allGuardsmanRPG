@@ -31,7 +31,9 @@ The order of play can be determined by counting successes on an arbitrary roll, 
 - Initiative roll: During combat, a number determined by the enemies must be beaten for each PC to act before the enemies.
 - Out of combat, usually there is no need to determine the specific order the players act in. It can be useful and tidy to go clockwise around the table.
 ## PC Stats
-Check [[pc-stats]]
+> Check [[pc-stats]]
+
+
 ## Rolls
 > Check [[rolling-dice]]
 
