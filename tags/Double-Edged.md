@@ -1,0 +1,1 @@
+An item that can damage the user in a fumble.

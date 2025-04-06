@@ -1,0 +1,1 @@
+$ obtained firing this weapon can be divided between enemies who are close together.
