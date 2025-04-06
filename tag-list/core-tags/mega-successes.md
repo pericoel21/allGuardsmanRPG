@@ -1,3 +1,15 @@
+---
+tags:
+  - tag
+  - feat
+aliases:
+  - Mega Successes
+  - Mega Success
+abstract: $ equals the number rolled (instead of the tens digit)
+status:
+  - untested
+  - wip
+---
 The $ generated using this item are the number rolled, not the tens digit.
 > [!danger] This tag is OP
 > Intended only for explosives, artillery, panaceas, inexplicable xenotech with a single use...

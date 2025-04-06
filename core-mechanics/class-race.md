@@ -11,7 +11,19 @@ abstract: Classes & races hub
 status:
   - temp
   - todo
+  - needs-revision
 ---
+Clerics: Includes:
+- Imperial clerics
+- Mechanicus
+- Heretic clerics
+
+- Weapon training:
+	- Imperial: flamer, hammer, maze
+	- Mechanicus: plasma weapons, arc weapons, mechanicus melee
+- Luck: A cleric’s Luck modifier applies to all spell checks to turn unholy creatures.
+- Action dice: A cleric can use his action dice for attack rolls or spell checks.
+
 # Class & Race
 Class = tag package + extras
 - Classes worse than death: transform into a servitor or a chaos spawn if you die in a specific situation.

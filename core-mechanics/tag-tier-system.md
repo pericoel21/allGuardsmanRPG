@@ -172,7 +172,7 @@ List of Requirement Tags
 
 | Requirement Tag | Required Stat    |
 | --------------- | ---------------- |
-| [[Heavy]]       | [[Strength]]     |
+| [[heavy]]       | [[Strength]]     |
 |                 | [[Dexterity]]    |
 |                 | [[Constitution]] |
 |                 | [[Awareness]]    |
