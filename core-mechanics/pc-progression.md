@@ -6,9 +6,12 @@ aliases:
   - XP
   - Progression
   - Level Up
+  - Character Progression
 abstract: XP & character progression 101
+status:
+  - todo
 ---
-
+# Character Progression
 - S/T & L/T ambitions.
 	- Tracker: Fills XP tracker:
 		- Completed ambitions give more than failed ones (or dropped ones).

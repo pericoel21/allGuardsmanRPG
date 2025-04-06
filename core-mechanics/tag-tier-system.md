@@ -8,8 +8,13 @@ aliases:
   - Tier
   - Tier System
   - Feat
+  - Tag & Tier System
 abstract: Tags 101, feats, tier system
+status:
+  - untested
+  - wip
 ---
+# Tag & Tier System
 ## Tags 101
 > [!important] Tags are descriptive words or sentences used to reflect qualities of objects, characters or the environment.
 > Types of Tag describe how broadly can they be applied
@@ -32,7 +37,7 @@ Any Tag has a tier associated with it. The Tier represents the magnitude, size o
 - Tier typically ranges from 1 to 5, but can be more.
 - Also, there are negative tags, i.e.: reliability.
 - Some tags have no tier: Petty (item) is a Tier 0 tag for infinitely stackable items.
-- [[Space, Time, Visibility, Cost & Connections]] use tiers
+- [[space-time-visibility-cost-connections]] use tiers
 # Types of Tag
 
 | Type  | Restriction                                        | Power                |
@@ -101,7 +106,7 @@ There are several ways a Tag can affect a Check or a Test. It is always importan
 | Silver      | Roll under Stat + Bonus (Bonus depends on Tag Tier) |
 | Any other   | Add $ after success ($ Tier equals Tag Tier)        |
 ### The standard use
-The most basic way to use a Tag is to **add the Tier off the Tag as a bonus or penalty to the Success Tier** of the roll (see [[Rolling the Dice]]).
+The most basic way to use a Tag is to **add the Tier off the Tag as a bonus or penalty to the Success Tier** of the roll (see [[rolling-dice]]).
 
 > [!danger] This means that Tags generally only affect Successful Rolls.
 > It is interesting to declare a Tag being used before a roll. But it is better to wait for the full negotiation of a difficult to apply Tag until after the roll is successful. It might not even matter.
@@ -146,13 +151,13 @@ Silver Tags add or subtract points to a Stat before rolling.
 
 ## Requirement Tags
 A tag can represent a requisite proportional to the Tier.
-- The encumbrance of an [[Items, Loadout & Encumbrance|Item]] is always a Requirement Tag, in this case, needing a number of inventory slots. It is usually obviated when the weight is 1.
+- The encumbrance of an [[items-loadout-encumbrance|Item]] is always a Requirement Tag, in this case, needing a number of inventory slots. It is usually obviated when the weight is 1.
 
 > [!example] Example: The *Heavy* Tag in items
 >  Heavy T2 means the item takes 2 inventory slots and it requires 40 str mínimum to use.
 
 ### Stat Requirement
-The most typical example of a Requirement Tag is one that specifies a minimum [[Player Character Stats|Stat]] score.
+The most typical example of a Requirement Tag is one that specifies a minimum [[pc-stats|Stat]] score.
 
 | Tier of the Tag | Minimum Stat | Minimum Status Stat |
 | --------------- | ------------ | ------------------- |

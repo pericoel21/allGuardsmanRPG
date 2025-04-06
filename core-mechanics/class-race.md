@@ -6,8 +6,13 @@ tags:
 aliases:
   - Class
   - Race
+  - Class & Race
 abstract: Classes & races hub
+status:
+  - temp
+  - todo
 ---
+# Class & Race
 Class = tag package + extras
 - Classes worse than death: transform into a servitor or a chaos spawn if you die in a specific situation.
 ## Human

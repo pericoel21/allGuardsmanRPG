@@ -5,6 +5,7 @@ tags:
 aliases:
   - Test
   - Roll
+  - Rolling the Dice
   - Tests
   - Rolls
   - Check
@@ -13,7 +14,10 @@ aliases:
   - Disadvantage
   - Position & Effect
 abstract: Rolling 101, position & effect, advantage & disadvantage, difficulty
+status:
+  - untested
 ---
+# Rolling the Dice
 A roll is needed when a PC performs an action where success is not granted, and:
  - The PC is under stress.
  - The action is complicated.
@@ -38,7 +42,7 @@ A roll is needed when a PC performs an action where success is not granted, and:
 ## The roll
 After **describing the action** a PC is performing and **select the Stat** that better represents that action, a player must roll a **d100.** The roll is successful if the outcome is **equal or under the selected Stat.**
 ### Tier of Success
-> [!info] See more in [[Tag & Tier System|Tier System]].
+> [!info] See more in [[tag-tier-system|Tier System]].
 
 Whether a PC is performing a Check or a Test, the degree of effectiveness of their successes is measured by the **Tier of Success.**
 - The **Tier of Success** is represented by the **$** symbol.
@@ -46,12 +50,12 @@ Whether a PC is performing a Check or a Test, the degree of effectiveness of the
 ### Failure and consequences
 A failure is a roll where the **outcome of the d100 is greater than the Stat** selected by the player. A failure might have direct or indirect consequences:
 - Many **locations have [[Clocks]]** associated with them. **Each failure ticks a segment** of the clock. Once it is completed, a **negative event** happens.
-- In other situations, failure might entail direct consequences. In [[Combat]], a failure when dodging means a PC suffers an attack.
+- In other situations, failure might entail direct consequences. In [[combat]], a failure when dodging means a PC suffers an attack.
 #### Criticals and Fumbles
 - Doubles under the stat are **Criticals** (including 00).
 - Doubles over a stat are **Fumbles**.
 
-For criticals and fumbles, consult the tables [[Crits & Fumbles (tables)]]
+For criticals and fumbles, consult the tables [[crits-fumbles-tables]]
 
 ```mermaid
 flowchart LR
@@ -234,7 +238,7 @@ Specific situations might impose Advantage or Disadvantage on a roll. This repre
 > When rolling **3/+/,** a player **rolls thrice** and obtains **96, 21, 11** for a stat with 43 points. The player **selects the 11 outcome,** as it is a **critical success.**
 > When rolling **/-/,** a player rolls two d100 and obtains **77 and 94** for a stat with 50 points. Both are failures, but **the 77 is a critical failure,** so the player **must choose it.**
 ## Tags and Rolls
-Depending on the type of [[Tag & Tier System|tags]].......
+Depending on the type of [[tag-tier-system|tags]].......
 
 | Type of tag | Function                                      |
 | ----------- | --------------------------------------------- |

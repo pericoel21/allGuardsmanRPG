@@ -12,8 +12,12 @@ aliases:
   - Healing
   - Status Effects
   - Stat Damage
+  - Wounds, Health & Recovery
 abstract: Wounds, health, recovery, status effects, stat damage
+status:
+  - todo
 ---
+# Wounds, Health & Recovery
 ## Wounds
 - A PC has a number of wounds equal to their rank in Constitution, minimum of 1.
 - Each wound has an amount of damage it can absorb equal to luck.

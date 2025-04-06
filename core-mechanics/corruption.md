@@ -3,15 +3,20 @@ tags:
   - mechanics
 aliases:
   - Intrusive Thoughts
+  - Corruption
 abstract: Corruption 101, corruption mechanics
+status:
+  - untested
+  - wip
 ---
+# Corruption
 > [!tip] Corruption in a nutshell:
 > Corruption is a currency which can be used to re-roll any dice, at any point.
 > - This re-roll is offered by the GM.
 > - Accepting the re-roll increases the corruption score.
 > 
-> It is also a [[Player Character Stats|Stat]]:
-> - Like all other stats, [[Rolling the Dice|Checks]] of Corruption can be asked by the GM.
+> It is also a [[pc-stats|Stat]]:
+> - Like all other stats, [[rolling-dice|Checks]] of Corruption can be asked by the GM.
 > - Players can declare actions using Corruption as the stat for the check, but that increases the corruption score.
 > - When a Corruption Check is failed, the PC gains a random [[Mutation]].
 - Minimum corruption stat

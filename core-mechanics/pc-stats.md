@@ -6,12 +6,22 @@ tags:
   - mechanics
 aliases:
   - Stats
+  - Player Character Stats
+  - PC Stats
+  - Character Stats
 abstract: PC stats 101. How to social interactions.
+status:
+  - wip
+  - untested
 ---
+# Player Character Stats
+#### List of Stats
 
-| Physical Stats                                    | Mental Stats                                    | Status Stats                                                      | Social standing Stats                                                      |
-| ------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [[Strength]]<br>[[Dexterity]]<br>[[Constitution]] | [[Awareness]]<br>[[Intelligence]]<br>[[Wisdom]] | [[Corruption]]<br>[[Wounds, Health & Recovery\|Wounds]], [[Luck]] | [[Space, Time, Visibility, Cost & Connections\|Connections]]<br>[[Wealth]] |
+| Physical Stats   | Mental Stats     | Status Stats                          | Social standing Stats                                        |
+| ---------------- | ---------------- | ------------------------------------- | ------------------------------------------------------------ |
+| [[Strength]]     | [[Awareness]]    | [[corruption]]                        | [[space-time-visibility-cost-connections\|Connections]] |
+| [[Dexterity]]    | [[Intelligence]] | [[wounds-health-recovery\|Wounds]] | [[Wealth]]                                                   |
+| [[Constitution]] | [[Wisdom]]       | [[Luck]]                              |                                                              |
 ## Uses of stats
 
 | Stat                                                         | Use                                                                                                                              |
@@ -22,9 +32,9 @@ abstract: PC stats 101. How to social interactions.
 | [[Awareness]]                                                | Reading the room. Perception. Reflexes. Good vision. Sniper weapons. Raw Psyker power. Moment-to-moment strategy. Finding clues. |
 | [[Intelligence]]                                             | Knowledge. Learning speed. Psyker ability. Sciences, engeniering. Theoretical strategy.                                          |
 | [[Wisdom]]                                                   | Instinct. Psyker resiliance. Animal handling. Leadership.                                                                        |
-| [[Corruption]]                                               |                                                                                                                                  |
-| [[Wounds, Health & Recovery\|Wounds]], [[Luck]]              |                                                                                                                                  |
-| [[Space, Time, Visibility, Cost & Connections\|Connections]] |                                                                                                                                  |
+| [[corruption]]                                               |                                                                                                                                  |
+| [[wounds-health-recovery\|Wounds]], [[Luck]]              |                                                                                                                                  |
+| [[space-time-visibility-cost-connections\|Connections]] |                                                                                                                                  |
 | [[Wealth]]                                                   |                                                                                                                                  |
 
 ## Using Stats for social interactions

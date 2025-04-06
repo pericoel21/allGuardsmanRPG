@@ -4,14 +4,20 @@ tags:
   - mechanics
 aliases:
   - Luck roll
+  - Dice of Doom
 abstract: "Dice of doom: decide who's lucky or unlucky"
+status:
+  - idea
+  - untested
+  - wip
 ---
+# Dice of Doom
 > [!important] Dice of Doom in a nutshell:
 > When the GM needs to decide what happens in a situation that only depends on luck, they call for a roll of the Dice of Doom.
 ## Rolling the Dice of Doom
 1. Each player and the GM roll a d10.
 2. All the rolls are openly compared.
-3. Dice might be re-rolled by gaining [[Corruption]].
+3. Dice might be re-rolled by gaining [[corruption]].
 ## Results
 
 | Name        | Explaination                                                          | Result                                           |

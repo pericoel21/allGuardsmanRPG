@@ -5,12 +5,16 @@ tags:
   - mechanics
 aliases:
   - Item
+  - Items, Loadout & Encumbrance
   - Equipment
   - Encumbrance
   - Loadout
 abstract: Equipment 101, encumbrance, hub, loadout
+status:
+  - todo
 ---
- Item creation and modification: uses [[Tag & Tier System|tier]] modification rules.
+# Items, Loadout & Encumbrance
+ Item creation and modification: uses [[tag-tier-system|tier]] modification rules.
 		- Adding tags
 		- Negative tags make modification easier / cheaper
 

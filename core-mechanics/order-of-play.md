@@ -1,8 +1,17 @@
 ---
-tags: 
-aliases: 
-abstract:
+tags:
+  - core
+  - mechanics
+aliases:
+  - Turns
+  - Rounds
+  - Initiative
+  - Order of Play
+abstract: How rounds and turns work (in and out of combat, and during downtime)
+status:
+  - todo
 ---
+# Order of Play
 The game is always played in rounds. A round contains the turn for each character, plus the turns of the enemies, sometimes.
 - During exploration, a round takes 5 to 10 minutes
 - During combat, a round takes seconds, and it is the time it takes for every character to do a relevant action and reposition themselves.

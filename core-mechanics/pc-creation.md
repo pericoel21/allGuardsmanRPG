@@ -3,9 +3,14 @@ tags:
   - character
   - mechanics
 aliases:
-  - Character creation
+  - Character Creation
+  - Player Character Creation
 abstract: Character creation process
+status:
+  - wip
+  - untested
 ---
+# Player Character Creation
 > [!info] The style of characters
 > This system is mainly intended for players to run human or abhuman characters in a cool, grimdark, science fantasy setting.
 > 
@@ -13,7 +18,7 @@ abstract: Character creation process
 
 
 
-- Traveller-like past experiences? -> [[Party Sheet]]
+- Traveller-like past experiences? -> [[party-sheet]]
 - Pick flaws for extra points
 - Pick a social tag for free.
 - Random stats -> point buy (?) -> stats qualify for classes / races
