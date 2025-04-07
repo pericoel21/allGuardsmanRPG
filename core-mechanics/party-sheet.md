@@ -17,3 +17,4 @@ status:
 - Assets.
 - If a party roll fumbles, next session there's an event
 - Put connections and wealth here?
+- Repeat player tags (to help master)
