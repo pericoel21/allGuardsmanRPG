@@ -1,6 +1,6 @@
 ## Principles
 I'm looking for:
-- - Order of play / initiative: Don't ever break turn order!
+- Order of play / initiative: Don't ever break turn order!
 - Simplicity:
 	- Less rolls.
 	- Player facing rolls
