@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "ecaf53cf6f7122d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ed3fc78f48a94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ec92321fdbaef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge bases/Projects/Asesinato 4ª pared/Pitch.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pitch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6b490189d7dc278",
+    "type": "split",
+    "children": [
+      {
+        "id": "adabc5db760a06e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3336f46c6d51cbf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35916b5905b19e05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "article",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d321dedf271c4a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "664790f3d1c79aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31ddda0ef4ba27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0863509f28359003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge bases/Tech support/Local AI LLMs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Local AI LLMs"
+            }
+          },
+          {
+            "id": "f329481d4adaa50f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge bases/Tech support/Local AI LLMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Local AI LLMs"
+            }
+          },
+          {
+            "id": "2ff73725e6c8fedc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b16723032269c36b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "subject"
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "678f728d01bc2498",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge bases/Tech support/Local AI LLMs.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Local AI LLMs"
+            }
+          },
+          {
+            "id": "128308221bee8e99",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 509.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "smart-second-brain:Open S2B Chat": false
+    }
+  },
+  "active": "86ec92321fdbaef1",
+  "lastOpenFiles": [
+    "Knowledge bases/Projects/Asesinato 4ª pared/Personajes.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Docs.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Asesinato 4ª pared.md",
+    "Knowledge bases/Tech support/DSLR Camera Webcam.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s11-BitD.sync-conflict-20241024-225228-4T5CZDD.md",
+    "Knowledge bases/RPG/Blades in the Dark/GM Screen/GM Screen.sync-conflict-20241024-225227-4T5CZDD.canvas",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Asesinato 4ª pared.sync-conflict-20241024-225225-4T5CZDD.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/Campaign 1 (c1-BitD).sync-conflict-20241024-225226-4T5CZDD.canvas",
+    "Knowledge bases/Tech support/DSLR Camera Webcam.sync-conflict-20241024-225231-4T5CZDD.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Storyline.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Pitch.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Sinopsis.md",
+    "Knowledge bases/Projects/Asesinato 4ª pared/Notas apuntes.md",
+    "Knowledge bases/RPG/Blades in the Dark/BitD System/Trauma.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/Campaign 1 (c1-BitD).canvas",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s11dt12-BitD.md",
+    "Knowledge bases/RPG/Blades in the Dark/GM Screen/GM Screen.canvas",
+    "Knowledge bases/RPG/Blades in the Dark/BitD System/War.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s12dt13-BitD.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s11-BitD.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s10dt11-BitD.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s10-BitD.md",
+    "Knowledge bases/RPG/Blades in the Dark/Campaign 1 (c1-BitD)/c1-BitD diary/c1s9dt10-BitD.md",
+    "Knowledge bases/RPG/RPG.canvas",
+    "Knowledge bases/Tech support/Docker.md",
+    "Knowledge bases/Tech support/Local AI LLMs.md",
+    "Knowledge bases/Tech support/Docker Engine.md",
+    "Knowledge bases/RPG/Blades in the Dark/Command.md",
+    "Fleeting notes/Fleeting notes.md",
+    "Knowledge bases/RPG/Blades in the Dark/BitD System/Ratings.md",
+    "Knowledge bases/RPG/Items/Granada.md",
+    "Knowledge bases/Tech support/Untitled",
+    "Knowledge bases/Media",
+    "Knowledge bases/Projects/Asesinato 4ª pared",
+    "Knowledge bases/Projects",
+    "Knowledge bases/Terapia",
+    "Knowledge bases",
+    "Chats",
+    "Utility",
+    "Class/Apuntes",
+    "Class",
+    "Knowledge bases/RPG/Blades in the Dark/BitD Database/Scores/Steal the Leviathan Eye.canvas",
+    "Knowledge bases/RPG/Blades in the Dark/BitD Database/Scores/The Crow's Nest.canvas",
+    "Utility/Files/wolztpip.bmp",
+    "Utility/Files/o9nt52iw.bmp",
+    "Utility/Templates/BitD-templates/Score template, BitD.canvas",
+    "Knowledge bases/RPG/Prep Tools.canvas",
+    "Utility/Files/Capture.png",
+    "Utility/Files/e90acd2520a4d108ee79bbfb37ceee0d 1.jpg",
+    "Utility/Files/e90acd2520a4d108ee79bbfb37ceee0d.jpg",
+    "Utility/Files/5521e18ffe5eba1ea58e63f15f19086a 1.jpg",
+    "Utility/Files/5521e18ffe5eba1ea58e63f15f19086a.jpg",
+    "Utility/Files/5b8643b30314797f4949b0de2eedb228 1.jpg",
+    "Utility/Files/5b8643b30314797f4949b0de2eedb228.jpg",
+    "Utility/Files/e4a1cc141ebf7655a98f38b108d962ee 1.jpg"
+  ]
+}

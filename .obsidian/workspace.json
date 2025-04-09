@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ecaf53cf6f7122d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52cf68d37a18d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b41fd7200ef977e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "allGuardsmanRPG/allGuardsmanRPG.canvas",
+                "viewState": {
+                  "x": -527.8141692843857,
+                  "y": 159.44930682792128,
+                  "zoom": -1.3043574895188137
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "allGuardsmanRPG"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6b490189d7dc278",
+    "type": "split",
+    "children": [
+      {
+        "id": "adabc5db760a06e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3336f46c6d51cbf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35916b5905b19e05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "os4",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d321dedf271c4a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "664790f3d1c79aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31ddda0ef4ba27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0863509f28359003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge bases/Tech support/Local AI LLMs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Local AI LLMs"
+            }
+          },
+          {
+            "id": "f329481d4adaa50f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge bases/Tech support/Local AI LLMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Local AI LLMs"
+            }
+          },
+          {
+            "id": "2ff73725e6c8fedc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b16723032269c36b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "678f728d01bc2498",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Games/Spelljammer/Cosmology and Races/Miskatonic Elders.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Miskatonic Elders"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 509.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "4b41fd7200ef977e",
+  "lastOpenFiles": [
+    "allGuardsmanRPG/Brainstorming.md",
+    "allGuardsmanRPG/system/tag-list/tag-list.md",
+    "allGuardsmanRPG/README.md",
+    "allGuardsmanRPG/_utility/templates/Database, Template.md",
+    "allGuardsmanRPG/system-dev/design-considerations.md",
+    "allGuardsmanRPG/system/core-mechanics/wounds-health-recovery.md",
+    "allGuardsmanRPG/system/core-mechanics/pc-creation.md",
+    "allGuardsmanRPG/system/core-mechanics/pc-stats.md",
+    "allGuardsmanRPG/system-dev/stats-generation-upgrading.md",
+    "allGuardsmanRPG/system/core-mechanics/tag-tier-system.md",
+    "allGuardsmanRPG/system/tag-list/core-tags/faith-blessed.md",
+    "allGuardsmanRPG/system",
+    "allGuardsmanRPG/system-dev",
+    "allGuardsmanRPG/system/core-mechanics/basic-mechanics.md",
+    "allGuardsmanRPG/system/core-mechanics/dice-of-doom.md",
+    "allGuardsmanRPG/system/core-mechanics/items.md",
+    "allGuardsmanRPG/system/core-mechanics/crits-fumbles-tables.md",
+    "allGuardsmanRPG/system/core-mechanics/corruption.md",
+    "allGuardsmanRPG/system/core-mechanics/combat.md",
+    "allGuardsmanRPG/system/core-mechanics/class-race.md",
+    "allGuardsmanRPG/system/core-mechanics/psykers-warp-sorcery.md",
+    "allGuardsmanRPG/system/gm-section/running-npcs.md",
+    "allGuardsmanRPG/system/gm-section/dungeoneering.md",
+    "allGuardsmanRPG/system/gm-section/setting.md",
+    "allGuardsmanRPG/system/gm-section/creating-crit-fumble-tables.md",
+    "allGuardsmanRPG/system/gm-section/using-clocks.md",
+    "allGuardsmanRPG/system/core-mechanics/rolling-dice.md",
+    "allGuardsmanRPG/lore/metaphysical-entities-warp.md",
+    "allGuardsmanRPG/lore",
+    "allGuardsmanRPG/_utility/json",
+    "allGuardsmanRPG/allGuardsmanRPG.canvas",
+    "allGuardsmanRPG/system/tag-list/core-tags",
+    "allGuardsmanRPG/system/gm-section",
+    "os40k/core-mechanics/Player Character Stats",
+    "allGuardsmanRPG/system/core-mechanics",
+    "Systems/os40k/Tags",
+    "Systems/os40k/os40k.canvas",
+    "Systems/os40k",
+    "Games/Warhammer Crawl Classics/wcc - Board.canvas",
+    "Games/Save the Unicorn/Save the Unicorn.canvas",
+    "Games/Games.canvas",
+    "utility/files/0.jpg",
+    "YT/YT.canvas",
+    "Tools & Resources/Prep Tools.canvas",
+    "RPG.canvas",
+    "Utility/Templates/BitD-templates/Score template, BitD.canvas",
+    "Knowledge bases/RPG/Blades in the Dark/GM Screen/GM Screen.canvas",
+    "utility/files/wolztpip.bmp",
+    "utility/files/o9nt52iw.bmp",
+    "utility/files/Capture.png",
+    "utility/files/e90acd2520a4d108ee79bbfb37ceee0d 1.jpg",
+    "utility/files/e90acd2520a4d108ee79bbfb37ceee0d.jpg",
+    "utility/files/5521e18ffe5eba1ea58e63f15f19086a 1.jpg",
+    "utility/files/5521e18ffe5eba1ea58e63f15f19086a.jpg",
+    "utility/files/5b8643b30314797f4949b0de2eedb228 1.jpg",
+    "utility/files/5b8643b30314797f4949b0de2eedb228.jpg"
+  ]
+}

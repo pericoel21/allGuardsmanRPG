@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Utility/Files",
+  "defaultViewMode": "preview"
+}
