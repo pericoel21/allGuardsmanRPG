@@ -17,5 +17,16 @@ status:
 		- Completed ambitions give more than failed ones (or dropped ones).
 		- LT give more than ST
 10xp -> level up
+Max accumulated xp. 10 + 3 (luck?)
 Increase stats (those decrease anyway)
 Increase tiers of tags (profession tags, equipment tags...)
+When level up it is possible to spend more than 10 xp if items / relationships contain xp
+
+Creating XP items: roll wealth / relationship:
+- Gamble an amount of xp
+- If successful, save $ xp. The rest is wasted or wxchanged for wealth / connections
+- If fail, lose wealth / connections or just loose the XP
+
+
+
+

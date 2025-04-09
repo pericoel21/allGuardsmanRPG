@@ -13,6 +13,8 @@ This is Old School 40k, a Tabletop Roleplaying System designed to play in a grim
 - Clocks: they help keep track of events, threats and statuses with ease.
 - Although the game is perfectly enjoyable if played with pen and paper, some mechanics take advantage of VTTs and digital resources.
 ## Setting
+> *"Enough head-cannon to surprise veterans, and so little that players' ideas can be added on the fly."*
+
 - The setting is heavily inspired by the lore some famous sci-fi wargames.
 - The lore is supported in the mechanics, but only the broader strokes:
 	- A demigod Emperor on his throne, far away.

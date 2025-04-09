@@ -30,4 +30,9 @@ Damage taken is:
 2. Marked in a wound.
 3. If the wound fills up, it does not carry over.
 
+
+
+Scars are positive tags, talk about the event they come from but also give a wild tag
 ## Stat damage
+
+Does recovery have to do with shifting tiers of the wound?

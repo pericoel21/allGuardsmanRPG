@@ -25,7 +25,7 @@ status:
 The game is always played in rounds. A round contains the turn for each character.
 - During [[Exploration]], a round takes 5 to 10 minutes.
 - During [[combat]], a round takes seconds. PCs get an action, and might reposition themselves.
-- During [[Downtime]], a round can take several days to a week.
+- During [[downtime]], a round can take several days to a week.
 
 The order of play can be determined by counting successes on an arbitrary roll, depending on the situation:
 - Initiative roll: During combat, a number determined by the enemies must be beaten for each PC to act before the enemies.

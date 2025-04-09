@@ -9,6 +9,8 @@ aliases:
   - Tier System
   - Feat
   - Tag & Tier System
+  - Wild Tag
+  - Blank Tag
 abstract: Tags 101, feats, tier system
 status:
   - untested

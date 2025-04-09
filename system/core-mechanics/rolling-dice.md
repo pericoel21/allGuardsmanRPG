@@ -88,9 +88,12 @@ The check tier **is usually 1$,** where the PC only needs to succeed. Counting t
 - To determine the **duration** of the action.
 - To represent the action within the **narrative.**
 
-Sometimes, the **Check Tier** might be greater than 1$.
-- The check only succeeds fully if equal or greater.
-- Some **negative consequences might be avoided** if the roll succeeds (equal or under a Stat) but **doesn't meet the Check Tier**.
+Sometimes, the **Check Tier** might be greater than 1$. The check **only succeeds fully if equal or greater.**
+
+Some **negative consequences might be avoided** if the roll succeeds (equal or under a Stat) but **doesn't meet the Check Tier**.
+
+> [!danger] Something to avoid
+> If the check can be repeated, it might be better to rule it as a Test, where the conditions for success or failure, and for keeping or discarding $, are better taken into account.
 
 > [!info] About Check Tiers greater than 1
 > Usually, the Checks where the needed Tier of Success is greater than 1 come from mechanics like Dodging in combat, where a character might need to roll $ equal or greater than the enemies' capability of attacking.
@@ -102,6 +105,12 @@ The test is a roll that measures the degree of completion of an action over time
 - To fully succeed at a Test, the PC needs to accumulate a **Success Tier equal to the Tier of the Test.**
 - The Success Tier **can be accumulated during several rounds** of play as long as the PC **doesn't fail.** ([[Rounds]])
 - The Success Tier can also be **accumulated by several PCs** ([[Helping]]) if narratively appropriate.
+- GM: Communicate $ needed?
+
+> [!info] Give Feedback about $
+> Succeeding rolls in a test should have an in-world meaning besides the meta concern of accumulating $. The characters must have a diegetic reason to keep doing the action, something that explains why do they "keep at it" instead of trying something different.
+> 
+> This also puts the PCs and the players in the same page: both know they're making progress. This way, communicating the required $ to the players might not be needed because they know, in character, that the task is completed when narratively appropriate.
 
 ```mermaid
 flowchart TD
@@ -246,6 +255,13 @@ Depending on the type of [[tag-tier-system|tags]].......
 | Silver      | Roll under Stat + Bonus (depends on Tag Tier) |
 | Any other   | Add $ after success ($ depends on tier)       |
 
+## Using Extra successes
+Both for rolls and tests, accumulating successes over the needed number can:
+- Lower clocks(?)
+- Better the results of attacks / magic?
+## Crits and Fumbles
+see [[crits-fumbles-tables]]
+- Lower clocks?
 ## Rolls with Stats scores greater than 99
 > [!danger] Here be dragons
 > Rolls with Stat scores equal to 100 or over are rare. This rules are here to be used sparingly, and to create powerful enemies. If actual PCs get to this range, the game might be broken. Alternatively, a temporary effect could raise their Stats to this point for some rounds. But they should be back to mortal territory after that.

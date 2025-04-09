@@ -6,7 +6,6 @@ aliases:
   - Psyker
   - Psykers
   - Warp Sorcery
-  - Warp
   - Warp Magic
   - Psykers & Warp Sorcery
 abstract: Psyker magic & warp sorcery 101
