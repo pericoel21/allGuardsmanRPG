@@ -25,6 +25,8 @@ I'm looking for:
 - Necron shards patreons
 - Ice cream truck archeotech
 - If the game is space australia, i need a space crocodile dundee
+- $ para apuntar a una parte del cuerpo o desarmar (mismo coste ambas)
+- 1s digit para parte del cuerpo en caso de herida.
 
 But luck affects psyker magic and guns jamming, and crits and fumbles.
 luck: d10 roll under for rnd events
