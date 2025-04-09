@@ -13,7 +13,7 @@ status:
 
 ```dataview
 TABLE abstract as Abstract
-FROM "os40k/tag-list"
+FROM "allGuardsmanRPG/tag-list"
 SORT file.name ASC
 WHERE file.name != "tag-list"
 ```

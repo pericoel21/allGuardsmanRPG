@@ -1,5 +1,5 @@
-# OS40K
-This is Old School 40k, a Tabletop Roleplaying System designed to play in a grimdark science-fantasy setting with lots of humor.
+# AllGuardsman RPG
+This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designed to play in a grimdark science-fantasy setting with lots of humor.
 
 ## The objectives of this system
 ### Old School gameplay
@@ -22,6 +22,6 @@ This is Old School 40k, a Tabletop Roleplaying System designed to play in a grim
 	- A faction that prays to the soul of machines.
 	- A galaxy always in war.
 - The ideas and opinions of the GM should be always easy to implement.
-	- The setting is vague enough that any GM can re-write parts of the cannon without contradicting any lore written in os40k.
+	- The setting is vague enough that any GM can re-write parts of the cannon without contradicting any lore written in allGuardsmanRPG.
 	- Plus, the mechanics will probably support the re-write.
 - If any section of os40k talks about the setting, it will give ideas, use examples to explain mechanics or help the reader create their own setting.
