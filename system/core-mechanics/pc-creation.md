@@ -74,3 +74,6 @@ Group backstory generation table
 | 18  |                             |                                                               |                                |                   |
 | 19  |                             |                                                               |                                |                   |
 | 20  |                             |                                                               |                                |                   |
+# Stats
+## Luck
+Tier is d2

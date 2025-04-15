@@ -27,6 +27,7 @@ I'm looking for:
 - If the game is space australia, i need a space crocodile dundee
 - $ para apuntar a una parte del cuerpo o desarmar (mismo coste ambas)
 - 1s digit para parte del cuerpo en caso de herida.
+- Player facing combat, but: enemies might have complicated actions. They roll a d10 and on a 1 they fumble.
 
 But luck affects psyker magic and guns jamming, and crits and fumbles.
 luck: d10 roll under for rnd events

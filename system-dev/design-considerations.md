@@ -23,6 +23,13 @@ status:
 ## On Stats
 > See [[pc-stats]]
 ### Why those Stats?
+- I want to have as few stats as possible without loosing "grain" & specialization.
+- I want to have a parallel between physical and mental stats:
+	- Strength, Dexterity, Awareness and Intelligence are more active.
+	- Constitution and Willpower are more passive.
+- I like Stat damage on every stat.
+	- The active stats might be damaged more often in a roundabout way (wounds).
+	- The passive ones act as HP.
 ## On Tags, Tier and Success
 ### Why the heavy use of Tier?
 - Global way to set power scales, so players and GM get used.

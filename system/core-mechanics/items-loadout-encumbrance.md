@@ -9,6 +9,11 @@ aliases:
   - Equipment
   - Encumbrance
   - Loadout
+  - Items
+  - Weapon
+  - Weapons
+  - Consumable
+  - Consumables
 abstract: Equipment 101, encumbrance, hub, loadout
 status:
   - todo
