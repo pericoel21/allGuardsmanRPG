@@ -1,4 +1,5 @@
 ---
+display-name: Glossary
 tags:
   - hub
   - utility

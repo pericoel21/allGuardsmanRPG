@@ -1,4 +1,5 @@
 ---
+display-name: Corruption
 tags:
   - mechanics
 aliases:

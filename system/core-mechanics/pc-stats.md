@@ -1,4 +1,5 @@
 ---
+display-name: PC Stats
 tags:
   - character
   - core
@@ -15,9 +16,9 @@ status:
   - untested
 ---
 # Player Character Stats
-#### List of Stats
+The Stats of a Player Character define their mental and physical aptitudes and their status, both in terms of health and social well-being.
 
-| Physical Stats   | Mental Stats     | Status Stats                       | Social standing Stats                                   |
+| Physical Stats   | Mental Stats     | Status Stats                       | Social Standing Stats                                   |
 | ---------------- | ---------------- | ---------------------------------- | ------------------------------------------------------- |
 | [[Strength]]     | [[Awareness]]    | [[corruption]]                     | [[space-time-visibility-cost-connections\|Connections]] |
 | [[Dexterity]]    | [[Intelligence]] | [[wounds-health-recovery\|Wounds]] | [[Wealth]]                                              |

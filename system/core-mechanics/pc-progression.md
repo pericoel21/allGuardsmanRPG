@@ -1,4 +1,5 @@
 ---
+display-name: PC Progression
 tags:
   - mechanics
   - character

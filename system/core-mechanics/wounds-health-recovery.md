@@ -1,4 +1,5 @@
 ---
+display-name: Wounds, Health and Recovery
 tags:
   - character
   - mechanics

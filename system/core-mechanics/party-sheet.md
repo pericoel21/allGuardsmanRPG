@@ -1,4 +1,5 @@
 ---
+display-name: Party Sheet
 tags:
   - character
   - mechanics

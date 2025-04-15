@@ -1,4 +1,5 @@
 ---
+display-name: Class & Lineage
 tags:
   - mechanics
   - database
@@ -7,6 +8,8 @@ aliases:
   - Class
   - Race
   - Class & Race
+  - Class & Lineage
+  - Lineage
 abstract: Classes & races hub
 status:
   - temp

@@ -1,4 +1,5 @@
 ---
+display-name: Order of Play & Initiative
 tags:
   - core
   - mechanics

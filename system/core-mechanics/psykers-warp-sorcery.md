@@ -1,4 +1,5 @@
 ---
+display-name: Psykers and Warp Sorcery
 tags:
   - mechanics
 aliases:

@@ -1,4 +1,5 @@
 ---
+display-name: Combat
 tags:
   - mechanics
 aliases:

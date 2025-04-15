@@ -1,4 +1,5 @@
 ---
+display-name: Basic Mechanics
 tags:
   - mechanics
   - hub
@@ -52,7 +53,7 @@ A roll is needed when a PC performs an action where success is not granted, and 
 > - **Failure leads to negative consequences** in any roll.
 > - Success Tiers can inform **roleplaying and mechanical consequences.**
 ## Tags
-Check [[tag-tier-system|Tags]]
+Check [[system/core-mechanics/tags|Tags]]
 
 ```mermaid
 flowchart TD

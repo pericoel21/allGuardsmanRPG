@@ -1,4 +1,5 @@
 ---
+display-name: Items, Loadout & Encumbrance
 tags:
   - database
   - hub
@@ -19,7 +20,7 @@ status:
   - todo
 ---
 # Items, Loadout & Encumbrance
- Item creation and modification: uses [[tag-tier-system|tier]] modification rules.
+ Item creation and modification: uses [[system/core-mechanics/tags|tier]] modification rules.
 		- Adding tags
 		- Negative tags make modification easier / cheaper
 

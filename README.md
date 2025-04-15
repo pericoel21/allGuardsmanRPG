@@ -25,3 +25,18 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 	- The setting is vague enough that any GM can re-write parts of the cannon without contradicting any lore written in allGuardsmanRPG.
 	- Plus, the mechanics will probably support the re-write.
 - If any section of os40k talks about the setting, it will give ideas, use examples to explain mechanics or help the reader create their own setting.
+
+# How to use this repo
+I am creating this repository by pushing my local Obsidian vault. This means:
+- The repository is mostly readable within GitHub, because it uses markdown formatting. All the vital information is readable in GitHub.
+- GitHub won't offer some of the quality of life features that Obsidian does.
+
+## The best possible experience
+If you want the best possible experience, pull this repo into your local files and open it with Obsidian.
+
+### Plug-ins
+The only plug-in you need to see everything I see is **Dataview.** It shows databases made from other pages.
+
+Some other recommended plug-ins I use:
+- **Folder Notes:** for a small QoL improvement, where you can click a folder to open a note with the exact same name as the folder. This is a behavior that imitates Notion.
+- **Templater,** only if you want to work in the repository as I do. It allows you to create or apply templates to notes. I use the templates in `_utility/templates`.

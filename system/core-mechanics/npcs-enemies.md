@@ -1,4 +1,5 @@
 ---
+display-name: NPCs & enemies
 tags:
   - mechanics
 aliases:

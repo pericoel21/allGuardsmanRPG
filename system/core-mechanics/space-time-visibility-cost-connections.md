@@ -1,4 +1,5 @@
 ---
+display-name: Tier system in Space, Time, Visibility, Cost and Connections
 tags:
   - mechanics
   - gm-screen
@@ -24,7 +25,7 @@ status:
 ---
 # Space, Time, Visibility, Cost & Connections
 Use tier system.
-Tiers can be offset.  [[tag-tier-system|tiers]]
+Tiers can be offset.  [[system/core-mechanics/tags|tiers]]
 > [!example]
 > - Something that takes days (Tier 3) can be done in hours (Tier 2) for a Tier 3 price or with a Tier 3 effect.
 > - Tier 3 Night Vision gear might change a Pitch Dark environment (tier 5) into one blurry and hazy (Tier 2)
