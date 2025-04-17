@@ -7,11 +7,10 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 - A game loop that stays always on turns.
 - The system specifically supports a west-marches style of play, where players' ambitions guide the discovery of the world.
 ### Modern improvements
-- d100 Black Jack system.
+- Simple d12 Black Jack system.
 - One action, one roll: the basic roll gives all the information needed.
 - A roll always matters; bad things can happen with any failed check!
-- Clocks: they help keep track of events, threats and statuses with ease.
-- Although the game is perfectly enjoyable if played with pen and paper, some mechanics take advantage of VTTs and digital resources.
+- Clocks help keep track of events, threats and statuses with ease.
 ## Setting
 > *"Enough head-cannon to surprise veterans, and so little that players' ideas can be added on the fly."*
 

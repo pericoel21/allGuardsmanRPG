@@ -28,6 +28,9 @@ Creating XP items: roll wealth / relationship:
 - If successful, save $ xp. The rest is wasted or wxchanged for wealth / connections
 - If fail, lose wealth / connections or just loose the XP
 
+To increase stat, pay the current tier + the next tier in XP. Luck costs double.
+XP to heal wounds?
+
 
 
 

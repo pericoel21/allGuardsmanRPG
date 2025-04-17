@@ -23,3 +23,5 @@ Defend with any stat: (only physicals)?
 
 
 Weapon tags can specify which stat cannot defend against that weapon.
+
+A critical defense roll can also be a fumble in the attack.

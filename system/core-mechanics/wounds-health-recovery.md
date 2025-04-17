@@ -37,3 +37,5 @@ Scars are positive tags, talk about the event they come from but also give a wil
 ## Stat damage
 
 Does recovery have to do with shifting tiers of the wound?
+
+Wounds "ransom" stat points (once healed, the ransom goes back to the stat point) (also you cannot upgrade the stat because you have to first spend XP healing)

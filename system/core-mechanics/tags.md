@@ -53,11 +53,11 @@ Tags can be created during play:
 ## Types of Tag
 The type of tag defines how broadly can the Tag be applied.
 
-| Type   | Restriction                                    | Tier                     |
-| ------ | ---------------------------------------------- | ------------------------ |
-| Blank  | Apply whenever possible. Just convince the GM. | Usually Tier 1           |
-| Wild   | Apply whenever possible. Just convince the GM. | Usually a low Tier (1-3) |
-| Strict | Apply only as specified by the Tag.            | Can reach high Tiers     |
+| Type   | Restriction                                    | Tier                                                                             |
+| ------ | ---------------------------------------------- | -------------------------------------------------------------------------------- |
+| Blank  | Apply whenever possible. Just convince the GM. | Tier 1 by default. Usually Tier 1 or 2.                                          |
+| Wild   | Apply whenever possible. Just convince the GM. | By default, low to mid Tier (2-3).                                               |
+| Strict | Apply only as specified by the Tag.            | The easier type of Tag to reach high Tier (4-6) without breaking the experience. |
 
 ### Blank Tags (Basic Tags)
 Blank Tags are generic Tags with no custom rules associated to them:

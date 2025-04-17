@@ -28,9 +28,16 @@ I'm looking for:
 - $ para apuntar a una parte del cuerpo o desarmar (mismo coste ambas)
 - 1s digit para parte del cuerpo en caso de herida.
 - Player facing combat, but: enemies might have complicated actions. They roll a d10 and on a 1 they fumble.
+- T'auva
+- Horned Rat
+- Recreate Maze Rats in wh40k (lots of tables)
+- Tables for session 1 introductions: Prisoners, PDF squad recruitment...
+- Ridiculous titles. Maybe table? Examle: Junior Honoriffic Assistant Arbites liason officer of the Planetary Defense Force
+- Do clerics recover from chaos more easily?
+- Mechanicus that fake the discovery of a STC to innovate without being labelled heretics.
 
 But luck affects psyker magic and guns jamming, and crits and fumbles.
 luck: d10 roll under for rnd events
 ### Tags
 - Create AOI (flamer ie)
-- 
+- Gun Fu

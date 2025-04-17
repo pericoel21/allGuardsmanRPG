@@ -17,3 +17,4 @@ status:
 
 - Warp: dangerous, wacky
 	- Translate DCC spells into d100 tables
+- Creeate passive effects or appearances for the psykers

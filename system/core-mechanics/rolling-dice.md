@@ -214,13 +214,6 @@ Specific situations might impose Advantage or Disadvantage on a roll. This repre
 ## Tags and Rolls
 Depending on the type of [[system/core-mechanics/tags|tags]].......
 
-| Type of tag | Function                                    |
-| ----------- | ------------------------------------------- |
-| Golden      | Roll with advantage / disadvantage          |
-| Silver      | Roll under Stat + Bonus (equal to Tag Tier) |
-| Any other   | Add $ after success ($ depends on tier)     |
-
-
 ## Using Extra successes
 Both for rolls and tests, accumulating successes over the needed number can:
 - Lower clocks(?)
@@ -229,6 +222,10 @@ Both for rolls and tests, accumulating successes over the needed number can:
 ## Crits and Fumbles
 see [[crits-fumbles]]
 - Lower clocks?
+
+## Calling the roll
+How to communicate rolls efficiently:
+Say: success tier x or failure
 
 ## Rolls with Stats scores greater than 11
 > [!danger] Here be dragons

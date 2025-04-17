@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:os40k/core-mechanics  ",
+  "collapse-filter": false,
+  "search": "path:system/core-mechanics  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1737925825767128,
-  "close": true
+  "scale": 0.8039693994338903,
+  "close": false
 }

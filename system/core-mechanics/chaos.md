@@ -5,6 +5,7 @@ tags:
 aliases:
   - Intrusive Thoughts
   - Corruption
+  - Chaos
 abstract: Corruption 101, corruption mechanics
 status:
   - untested
