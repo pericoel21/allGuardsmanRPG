@@ -25,3 +25,9 @@ Defend with any stat: (only physicals)?
 Weapon tags can specify which stat cannot defend against that weapon.
 
 A critical defense roll can also be a fumble in the attack.
+
+Process of defending:
+1. Roll defense.
+2. Subtract $ from the damage.
+3. Take the damage into the hit points. Damage doesn't carry over.
+4. If armor is 0 when attacked, take a wound with tier = damage (roll on the weapon's table or in a generic table)

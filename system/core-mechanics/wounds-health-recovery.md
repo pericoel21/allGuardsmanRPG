@@ -39,3 +39,6 @@ Scars are positive tags, talk about the event they come from but also give a wil
 Does recovery have to do with shifting tiers of the wound?
 
 Wounds "ransom" stat points (once healed, the ransom goes back to the stat point) (also you cannot upgrade the stat because you have to first spend XP healing)
+
+Shift tiers to heal, with a roll of CON, and paying Luck for the rest (if you want).
+If the Shift you generate is more than you need to heal (or if you recover with no wounds), recover Luck instead (but with a 2:1 cost)

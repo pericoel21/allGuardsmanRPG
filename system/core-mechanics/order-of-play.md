@@ -14,7 +14,7 @@ status:
 ---
 # Order of Play
 The game is always played in rounds. A round contains the turn for each character, plus the turns of the enemies, sometimes.
-- During exploration, a round takes 5 to 10 minutes
+- During exploration, a round takes 5 to 10 minutes. It is the time it takes for a character to accomplish one task.
 - During combat, a round takes seconds, and it is the time it takes for every character to do a relevant action and reposition themselves.
 - During downtime, a round can take several days to a week, and it is the time it takes for a character to pursue a meaningful accomplishment or work on a project.
 

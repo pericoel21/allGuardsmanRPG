@@ -31,6 +31,8 @@ Creating XP items: roll wealth / relationship:
 To increase stat, pay the current tier + the next tier in XP. Luck costs double.
 XP to heal wounds?
 
+Discussion about tags, modify them if players don't play accordingly, make them grow if they do.
+
 
 
 

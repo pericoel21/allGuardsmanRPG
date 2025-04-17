@@ -6,25 +6,45 @@ tags:
 aliases:
   - Tier System
   - Tier
-  - Shift Tier
-  - Shifting Tier
-abstract: Tier system 101, Tier how to, shifting Tier
+  - Modifying Tier
+abstract: Tier system 101, Tier how to, modifying Tier
 status:
   - untested
-  - wip
 ---
-# Tier 101
-> See [[tag-list]], [[feats]]
+# Tier System
+> See [[tag-list]], [[traits]]
 
+## Tier 101
 **Any Tag or Feat has an associated Tier**. The Tier represents the magnitude, size or difficulty of the quality described by the Tag.
-- It is specified as *T#* (# being a number).
+- It is specified as *T#* after the name of the Tag (# being a number).
 - Tier typically ranges from 1 to 6, but it can be more.
-- Also, there are negative tags. I.e.: reliability becomes unreliability if it is less than 1.
-- Some tags have no tier: Petty (item) is a Tier 0 tag for infinitely stackable items.
+- Also, there are negative Tiers.
+  > [!example] 
+  > *Reliability* becomes *Unreliability* if it is less than Tier 1.
+- Some tags have no tier.
+  > [!example]
+  > *Petty* (for an item) is a Tier 0 tag for infinitely stackable items.
 - [[space-time-visibility-cost-connections]] use tiers.
-## Shifting tiers
-Making effects or statuses increase or decrease in tier:
-- To make an effect go down might be needed a Tag with the same Tier (and a successful roll)
-- Use the tier list from place of thing?
-- Use the change move from place of thng as a reference of how much a tier drops
-- Shifting tiers is also how you create or modify equipment. Also adding a negative tag, the cost of shifting the tier can be mitigated. Example: plasma pistol can be modified to add a custom tag "plasma cutter" so it can cut through materials. Adding a tier to "double-edged" (a property plasma weapons already have) makes the modification easier.
+
+## Modifying Tiers
+A Tag's Tier may be changed because it makes narrative sense and the table agrees.
+> [!example] Examples of Tier modification are:
+> - PCs changing circumstances of the environment that are defined as a Tag.
+> - [[pc-progression]] can happen in a way that modifies the Tier of player Tags.
+> - [[wounds-health-recovery|Wounds]] are recovered if their Tier is reduced to 0.
+
+Modifying the tier can happen in two ways: Modifying the Tier directly, or through [[tier-shifting]].
+### Direct modification
+The Tier of a Tag **changes from one number to another,** without any other mechanical implication.
+
+This is a catch-all way to modfy Tier, and it should be the default because it is the simplest one.
+### Tier Shifting
+> See [[tier-shifting]]
+
+Shifting the Tier of a Tag is a Tier modification method that complicates the process a bit for the PCs, so it should be used sparingly.
+
+Use Tier Shifting when it is more fun to play the slow process of changing the Tag because that Tag represents something important in the narrative.
+
+When Shifting Tiers, there is a **cost**. It is usually **paid in Tiers of Success ($)**.
+> [!tip] Cost of Tier Shifting
+> When going from *Tier X* to *Tier Y*, the cost is $X + Y$, usually in Tiers of Success ($) of a roll.

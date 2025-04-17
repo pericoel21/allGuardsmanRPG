@@ -33,10 +33,10 @@ status:
 
 ## Stats
 
-| Combat     | Physical Stats | Mental Stats | Status Stats |
-| ---------- | -------------- | ------------ | ------------ |
-| [[melee]]  | [[toughness]]  | [[instinct]] | [[morale]]   |
-| [[ranged]] | [[agility]]    | [[whit]]     | [[health]]   |
+| Combat     | Physical Stats | Mental Stats | Status Stats                                        |
+| ---------- | -------------- | ------------ | --------------------------------------------------- |
+| [[melee]]  | [[toughness]]  | [[instinct]] | [[morale]]                                          |
+| [[ranged]] | [[agility]]    | [[whit]]     | [[hit-points]] & [[wounds-health-recovery\|wounds]] |
 
 ### Combat Stats
 Used for anything combat: [[melee]] for close quarters combat, and [[ranged]] for the use of guns or projectiles.
@@ -47,7 +47,8 @@ Also used many times as saves.
 Also important for social (combined with tags)
 ### Status Stats
 Define how much enemies keep fighting, how NPCs react to PCs, and how much hirelings follow.
-[[health]] is both physical and mental
+[[hit-points]] is both physical and mental.
+[[wounds]] is 1 by default
 
 ## Hirelings
 - Players have their sheets and roll their dice, but the GM interprets them and has veto over their actions.
@@ -55,3 +56,4 @@ Define how much enemies keep fighting, how NPCs react to PCs, and how much hirel
 ## Arch-Enemies
 They have the same stats as the player, but still used as a player facing roll.
 ## Crowds
+More wounds

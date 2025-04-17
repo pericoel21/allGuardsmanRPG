@@ -35,6 +35,8 @@ I'm looking for:
 - Ridiculous titles. Maybe table? Examle: Junior Honoriffic Assistant Arbites liason officer of the Planetary Defense Force
 - Do clerics recover from chaos more easily?
 - Mechanicus that fake the discovery of a STC to innovate without being labelled heretics.
+- Change "MTG COLOR" to pentachrome color
+- What to do with negative tags that are played well? And what with players that refuse to play them?
 
 But luck affects psyker magic and guns jamming, and crits and fumbles.
 luck: d10 roll under for rnd events
