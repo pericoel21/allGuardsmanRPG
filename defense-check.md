@@ -16,6 +16,18 @@ status:
 # The Defense Check
 When a PC is attacked by an enemy, a **Defense Roll is required to determine if the attack lands or misses.** The defense roll is a **[[rolling-dice|Check]] against the Tier of the attack** (modified up or down due to the specific circumstances).
 
+> [!important] Defending, step by step
+> 1. **Describe what the PC does to defend**
+> 	   This determines the [[pc-stats|Stat]] used to defend, and might also give penalties or bonuses.
+> 2. **Roll defense**
+> 	   Roll under the selected stat, applying tags and other modifiers (like [[cover]])
+> 3. **Subtract $ from the damage**
+>       The damage comes from the weapon used. Subtract from it the $ generated in the [[defense-check]].
+> 4. **Take the damage**
+> 	   The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
+> 5. **Take a Wound**
+> 	   If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.
+
 ## Selecting a Stat
 The player describes how the PC handles the defense. This allows for any Defense Roll to be done with any Physical or Mental [[pc-stats|Stat]], within limits.
 
@@ -75,7 +87,7 @@ A defense roll can have **bonuses**:
 > - The PC is hidden.
 > - The enemy is trying to shoot while being assaulted by someone else.
 
-### Deciding on penalties and bonuses
+### Possible penalties and bonuses
 Considering the situations that might benefit or hindering the PC might result in the GM imposing some modifiers on the Defense Check:
 - **Modifying the Tier** of the Check to defend (up or down).
 - Imposing **Advantage or Disadvantage**.
@@ -93,3 +105,14 @@ In this situation, the character still has **a chance to avoid most of the damag
 - The selected Stat **must be [[constitution|CON]] against any physical attack.**
 - The selected Stat **must be a mental Stat against a mental attack.**
 -  **The PC will take at least 1 Tier of damage**, even if the incoming Tier of damage is reduced to 0.
+
+## Fumbles & Crits
+
+## Calculating damage
+
+1. **Subtract $ from the damage**
+   The damage comes from the weapon used. Subtract from it the $ generated in the [[defense-check]].
+4. **Take the damage**
+   The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
+5. **Take a Wound** 
+   If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.

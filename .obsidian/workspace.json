@@ -49,8 +49,7 @@
               "title": "combat"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "74a621274c4443a3",
@@ -69,8 +68,37 @@
               "icon": "lucide-file",
               "title": "defense-check"
             }
+          },
+          {
+            "id": "d44a82310fe5ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "attack-check.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attack-check"
+            }
+          },
+          {
+            "id": "d7f9602874fca03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/core-mechanics/npcs-enemies.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "npcs-enemies"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,18 +260,20 @@
       "media-extended:Open media": false
     }
   },
-  "active": "95b312a01bf92c09",
+  "active": "4b5d1bc17e8ebee3",
   "lastOpenFiles": [
-    "system-dev/roadmap-to-do.md",
+    "attack-check.md",
     "system/core-mechanics/combat.md",
     "defense-check.md",
+    "system/core-mechanics/npcs-enemies.md",
+    "Brainstorming.md",
+    "system-dev/roadmap-to-do.md",
     "system/core-mechanics/social-standing-tiers.md",
     "system/core-mechanics/vision-tiers.md",
     "system/core-mechanics/space-time-visibility-cost-connections.md",
     "system/core-mechanics/cost-tiers.md",
     "system/core-mechanics/space-tiers.md",
     "system/core-mechanics/time-tiers.md",
-    "Brainstorming.md",
     "system/core-mechanics/pc-stats.md",
     "system/core-mechanics/tags.md",
     "README.md",
@@ -253,7 +283,6 @@
     "system/core-mechanics/tag-classes.md",
     "system/core-mechanics/tag-metallic-colors.md",
     "system/core-mechanics/wounds-health-recovery.md",
-    "system/core-mechanics/npcs-enemies.md",
     "glossary.md",
     "system/core-mechanics/tier-shifting.md",
     "system/core-mechanics/tier-system.md",

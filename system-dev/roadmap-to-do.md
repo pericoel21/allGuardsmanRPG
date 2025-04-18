@@ -39,6 +39,7 @@ Stuff at usable level, not finished (`#untested` tag).
 When alpha is ready, the system could be public
 - [ ] Solo playtest / friends playtest
 - [ ] Cleanup lore
+- [ ] Rewrite attack & defense to include psyker stuff
 - [ ] All tables needed for PC creation
 - [ ] Iconic Items
 ### First Playtest
