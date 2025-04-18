@@ -26,6 +26,10 @@ Stuff at usable level, not finished (`#untested` tag).
 - [ ] Stats
 - [ ] NPCs / enemies
 - [ ] Combat (Polish it well!)
+	- [x] Defense Checks
+	- [ ] Attacking
+	- [ ] Fumbles & Crits
+	- [ ] Ranges
 - [ ] Wounds and Health
 - [ ] Some items
 - [x] Tier System

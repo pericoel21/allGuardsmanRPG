@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Brainstorming"
             }
+          },
+          {
+            "id": "95b312a01bf92c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/core-mechanics/combat.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "combat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "74a621274c4443a3",
@@ -48,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "defense-roll.md",
+                "file": "defense-check.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "defense-roll"
+              "title": "defense-check"
             }
           }
         ]
@@ -218,17 +232,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0c2b06ef2fb9cb3a",
+  "active": "95b312a01bf92c09",
   "lastOpenFiles": [
+    "system-dev/roadmap-to-do.md",
+    "system/core-mechanics/combat.md",
+    "defense-check.md",
     "system/core-mechanics/social-standing-tiers.md",
     "system/core-mechanics/vision-tiers.md",
-    "system/core-mechanics/combat.md",
     "system/core-mechanics/space-time-visibility-cost-connections.md",
     "system/core-mechanics/cost-tiers.md",
     "system/core-mechanics/space-tiers.md",
     "system/core-mechanics/time-tiers.md",
-    "defense-roll.md",
-    "system-dev/roadmap-to-do.md",
     "Brainstorming.md",
     "system/core-mechanics/pc-stats.md",
     "system/core-mechanics/tags.md",
