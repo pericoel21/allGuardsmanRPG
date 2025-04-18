@@ -33,7 +33,7 @@ The Stats of a Player Character define their mental and physical aptitudes and t
 | [[Awareness]]                                           | Reading the room. Perception. Reflexes. Good vision. Sniper weapons. Raw Psyker power. Moment-to-moment strategy. Finding clues. |
 | [[Intelligence]]                                        | Knowledge & Will. Learning speed. Psyker ability. Sciences, engeniering. Theoretical strategy.                                   |
 | [[Willpower]]                                           | Instinct. Psyker resiliance. Animal handling. Leadership. Mental HP                                                              |
-| [[chaos]]                                          |                                                                                                                                  |
+| [[chaos]]                                               |                                                                                                                                  |
 | [[wounds-health-recovery\|Wounds]], [[Luck]]            |                                                                                                                                  |
 | [[space-time-visibility-cost-connections\|Connections]] |                                                                                                                                  |
 | [[Wealth]]                                              |                                                                                                                                  |

@@ -24,7 +24,7 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 - The ideas and opinions of the GM should be always easy to implement.
 	- The setting is vague enough that any GM can re-write parts of the cannon without contradicting any lore written in allGuardsmanRPG.
 	- Plus, the mechanics will probably support the re-write.
-- If any section of os40k talks about the setting, it will give ideas, use examples to explain mechanics or help the reader create their own setting.
+- If any section of the system talks about the setting, it will give ideas, use examples to explain mechanics or help the reader create their own setting.
 
 # How to use this repo
 I am creating this repository by pushing my local Obsidian vault. This means:

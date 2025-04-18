@@ -26,9 +26,11 @@ Stuff at usable level, not finished (`#untested` tag).
 - [ ] Stats
 - [ ] NPCs / enemies
 - [ ] Combat (Polish it well!)
+- [ ] Wounds and Health
 - [ ] Some items
 - [x] Tier System
 - [ ] Some Wound Tables
+- [ ] Ranges
 ### Alpha
 When alpha is ready, the system could be public
 - [ ] Solo playtest / friends playtest
