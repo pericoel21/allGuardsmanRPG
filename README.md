@@ -20,6 +20,7 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 	- A parallel dimension created by the emotion of people, populated by horrors.
 	- A faction that prays to the soul of machines.
 	- A galaxy always in war.
+	- Some fantasy tropes in space, with a twist.
 - The ideas and opinions of the GM should be always easy to implement.
 	- The setting is vague enough that any GM can re-write parts of the cannon without contradicting any lore written in allGuardsmanRPG.
 	- Plus, the mechanics will probably support the re-write.
@@ -27,11 +28,11 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 
 # How to use this repo
 I am creating this repository by pushing my local Obsidian vault. This means:
-- The repository is mostly readable within GitHub, because it uses markdown formatting. All the vital information is readable in GitHub.
-- GitHub won't offer some of the quality of life features that Obsidian does.
+- The repository is mostly readable within GitHub, because it uses markdown formatting. **All the vital information is readable in GitHub.**
+- **GitHub lacks some of the quality of life features** that Obsidian does.
 
 ## The best possible experience
-If you want the best possible experience, pull this repo into your local files and open it with Obsidian.
+If you want the **best possible experience**, pull (download) this repo into your local files and open it with Obsidian. 
 
 ### Plug-ins
 The only plug-in you need to see everything I see is **Dataview.** It shows databases made from other pages.
@@ -39,3 +40,9 @@ The only plug-in you need to see everything I see is **Dataview.** It shows data
 Some other recommended plug-ins I use:
 - **Folder Notes:** for a small QoL improvement, where you can click a folder to open a note with the exact same name as the folder. This is a behavior that imitates Notion.
 - **Templater,** only if you want to work in the repository as I do. It allows you to create or apply templates to notes. I use the templates in `_utility/templates`.
+
+## Some extra stuff
+I'm using some other pieces of software to make things work:
+- I use OpenOffice sheets to catalog all types of stuff. You can find them in the `_utility` folder (they open perfectly on Google Drive or Excel).
+- When I finish them up to their alpha version, run some magic code to create markdown pages for each item, tag, etc; meaning that you'll be able to access them from GitHub too.
+- If you'd were to create your own tables... Don't worry, I'll share the magic code too! It is Python and once I have the final scripts, I'll create a `_utility/py` folder for them.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-dev/roadmap-to-do.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roadmap-to-do"
+              "title": "README"
             }
           },
           {
@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tag-classes.md",
+                "file": "system/core-mechanics/tag-classes.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tag-metallic-colors.md",
+                "file": "system/core-mechanics/tag-metallic-colors.md",
                 "mode": "source",
                 "source": false
               },
@@ -275,14 +275,14 @@
   },
   "active": "4b5d1bc17e8ebee3",
   "lastOpenFiles": [
+    "system-dev/roadmap-to-do.md",
     "system/core-mechanics/pc-creation.md",
     "system/core-mechanics/pc-progression.md",
     "system/core-mechanics/tags.md",
     "Brainstorming.md",
-    "system-dev/roadmap-to-do.md",
     "system/core-mechanics/tag-pentachrome-colors.md",
-    "tag-classes.md",
-    "tag-metallic-colors.md",
+    "system/core-mechanics/tag-classes.md",
+    "system/core-mechanics/tag-metallic-colors.md",
     "system/core-mechanics/wounds-health-recovery.md",
     "system/core-mechanics/npcs-enemies.md",
     "system/core-mechanics/combat.md",
