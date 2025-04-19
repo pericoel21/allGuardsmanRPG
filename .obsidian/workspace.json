@@ -49,26 +49,13 @@
               "title": "combat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74a621274c4443a3",
         "type": "tabs",
         "children": [
-          {
-            "id": "0c2b06ef2fb9cb3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "defense-check.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "defense-check"
-            }
-          },
           {
             "id": "d44a82310fe5ebd3",
             "type": "leaf",
@@ -97,8 +84,7 @@
               "title": "npcs-enemies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,14 +246,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4b5d1bc17e8ebee3",
+  "active": "77663be12ecaa13b",
   "lastOpenFiles": [
+    "system-dev/roadmap-to-do.md",
+    "defense-check.md",
     "attack-check.md",
     "system/core-mechanics/combat.md",
-    "defense-check.md",
     "system/core-mechanics/npcs-enemies.md",
     "Brainstorming.md",
-    "system-dev/roadmap-to-do.md",
     "system/core-mechanics/social-standing-tiers.md",
     "system/core-mechanics/vision-tiers.md",
     "system/core-mechanics/space-time-visibility-cost-connections.md",

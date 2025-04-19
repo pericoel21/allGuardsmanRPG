@@ -108,11 +108,13 @@ In this situation, the character still has **a chance to avoid most of the damag
 
 ## Fumbles & Crits
 
-## Calculating damage
+## Taking damage
+The purpose of a Defense Check to calculate the amount of damage taken from the attack.
 
-1. **Subtract $ from the damage**
-   The damage comes from the weapon used. Subtract from it the $ generated in the [[defense-check]].
-4. **Take the damage**
-   The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
-5. **Take a Wound** 
-   If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.
+The damage taken is calculating by **subtracting the Tier of Success ($) from the Tier of Damage** of the attack. The Tier of Damage depends on the weapon used. 
+
+If the incoming Damage is more than 0, the PC takes the damage, **subtracting it from the [[hit-points|Hit Points]]** total.
+
+**If the Hit Points amount reaches 0, it doesn't carry over** for that attack. However, **when taking damage with Hit Points equal to 0**, the PC **takes a Wound**, instead. The **Tier of the wound equals the incoming Damage.**
+
+Luck?

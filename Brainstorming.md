@@ -38,6 +38,9 @@ I'm looking for:
 - Change "MTG COLOR" to pentachrome color
 - What to do with negative tags that are played well? And what with players that refuse to play them?
 - Create a social combat page parallel to combat?
+- Petty items = quantic inventory. In the party sheet: unlocked for the whole party.
+- Aspects. alternative names for Wild Tags that mean similar things but are easily applied to other situations.
+- Progression of Wild Tags
 
 But luck affects psyker magic and guns jamming, and crits and fumbles.
 luck: d10 roll under for rnd events
