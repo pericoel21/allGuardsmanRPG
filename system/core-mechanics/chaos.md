@@ -29,7 +29,7 @@ status:
 ([[downtime]]):
 Improvise or create a pool of activities that align with the dark gods. Ask the other players to write activities for eachother.
 This ideas are thoughts that the PCs have "naturally".
-If player accepts the master suggestion for an activity, they regain [[Luck]] but also gain corruption.
+If player accepts the master suggestion for an activity, they regain [[luck]] but also gain corruption.
 
 ## Narrative & GMing
 The Corruption Score represents the specific point in between Chaos and Lawfulness a character's personality is at. Therefore, it also informs their interaction with the beings that represent those two concepts.

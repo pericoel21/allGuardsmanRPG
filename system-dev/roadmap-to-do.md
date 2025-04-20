@@ -27,14 +27,19 @@ Stuff at usable level, not finished (`#untested` tag).
 - [ ] NPCs / enemies
 - [ ] Combat (Polish it well!)
 	- [x] Defense Checks
-	- [ ] Attacking
-	- [ ] Fumbles & Crits
+	- [x] Attacking
+	- [x] Fumbles
+	- [x] Crits
+	- [ ] Crits & fumbles in defense & attack
 	- [ ] Ranges
+	- [ ] trickshots
+	- [ ] aiming
 - [ ] Wounds and Health
+- [ ] Helping
+- [ ] Items
 - [ ] Some items
 - [x] Tier System
 - [ ] Some Wound Tables
-- [ ] Ranges
 ### Alpha
 When alpha is ready, the system could be public
 - [ ] Solo playtest / friends playtest

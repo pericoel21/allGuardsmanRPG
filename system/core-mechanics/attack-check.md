@@ -45,17 +45,17 @@ The player has some **freedom to select the Stat** used when rolling an Attack C
 
 | Stat             | Use                                                                    |
 | ---------------- | ---------------------------------------------------------------------- |
-| [[Strength]]     | Default for melee attacks. Shooting heavy weapons (not very accurate). |
-| [[Dexterity]]    | Melee attacks (fencing). Default Stat for ranged combat.               |
-| [[Constitution]] | Very rare. Possible use in grapples.                                   |
-| [[Awareness]]    | Aiming. Precise ranged weapons.                                        |
-| [[Intelligence]] | Faints. Aiming (when it requires complex understanding).               |
-| [[Willpower]]    | Very rare.                                                             |
+| [[strength]]     | Default for melee attacks. Shooting heavy weapons (not very accurate). |
+| [[dexterity]]    | Melee attacks (fencing). Default Stat for ranged combat.               |
+| [[constitution]] | Very rare. Possible use in grapples.                                   |
+| [[awareness]]    | Aiming. Precise ranged weapons.                                        |
+| [[intelligence]] | Faints. Aiming (when it requires complex understanding).               |
+| [[willpower]]    | Very rare.                                                             |
 ### Effectiveness of a Stat given an enemy
 
 
 ## Penalties and Bonuses
-> See [[cover]], [[tags]], [[rolls]]
+> See [[cover]], [[tags]], [[rolling-dice]]
 
 A GM will impose **penalties** in situations where:
 - **Attacking is difficult** regardless of the selected stat.
@@ -90,9 +90,16 @@ If the **Check is successful**, and the **Tier of Success surpasses the Toughnes
 > 1. An Attack Check **generates 4$** but the enemy's **Toughness Tier is 5**. The attack **fails**.
 > 2. An Attack Check **generates 6$** against the same enemy, with **Toughness Tier 5**. The attack succeeds, and the **damage is 6**.
 ## Special Cases
+Some situations make slight modifications to the way an Attack Check is performed.
+### Trickshots
+A Trickshot is an **attack made to an specific part of the target, or in a very specific way.** The intent could just be to **make more damage,** but a Trickshot can also be used to **hinder** the enemy. 
 
-### Called Shots
-Possibility to target: Cause tags that reduce, for example, toughness? Give $ penalties but require only success to apply a tag (no damage is produced, or reduced damage)
+There are three possible effects if a Trickshot is Successful.
+
+| Effect               | Description                                                | Difficulty |
+| -------------------- | ---------------------------------------------------------- | ---------- |
+| **Hinder the enemy** | Impose a negative **Blank Tag** instead of causing damage. | Easiest    |
+| **Do extra damage**  | Increase the resulting **damage** of the attack.           | Hard       |
+| **Do Stat damage**   | Decrease the **Stats** of the enemy directly.              | Very Hard  |
 
 ### Aiming
-Usually awarenes unless it is shooting to a specific mechanical part so something technical happens, or trying to shoot a big monster in a specific muscle so it spasms, ie.

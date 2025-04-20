@@ -47,3 +47,6 @@ luck: d10 roll under for rnd events
 ### Tags
 - Create AOI (flamer ie)
 - Gun Fu
+- Cold Shot
+### Lore
+- Sheogorath as a dark eldar god

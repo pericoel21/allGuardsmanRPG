@@ -34,12 +34,12 @@ List of Stat Requirement Tags
 
 | Trait     | Required Stat    |
 | --------- | ---------------- |
-| [[heavy]] | [[Strength]]     |
-|           | [[Dexterity]]    |
-|           | [[Constitution]] |
-|           | [[Awareness]]    |
-|           | [[Intelligence]] |
-|           | [[Wisdom]]       |
+| [[heavy]] | [[strength]]     |
+|           | [[dexterity]]    |
+|           | [[constitution]] |
+|           | [[awareness]]    |
+|           | [[intelligence]] |
+|           | [[willpower]]       |
 
 
 ### Tag Requirement

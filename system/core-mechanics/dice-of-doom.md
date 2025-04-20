@@ -23,7 +23,7 @@ status:
 
 | Name        | Explaination                                                          | Result                                           |
 | ----------- | --------------------------------------------------------------------- | ------------------------------------------------ |
-| Lucky       | The roll of a player coincides with their current [[Luck]].           | That player doesn't count their Dice of Doom.    |
+| Lucky       | The roll of a player coincides with their current [[luck]].           | That player doesn't count their Dice of Doom.    |
 | Doubles     | Two of the Dice of Doom coincide.                                     | Slightly bad outcome, tick on a clock.           |
 | Triples     | Three of the dice of Doom coincide.                                   | Bad outcome, several ticks on a clock            |
 | Combo       | Several of the other results combined, like 2 pairs or pair + triple. | At least fill the clock.                         |

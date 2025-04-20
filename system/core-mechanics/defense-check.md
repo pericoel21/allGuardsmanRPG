@@ -41,12 +41,12 @@ The player describes how the PC handles the defense. This allows for any Defense
 
 | Stat             | Use                                             |
 | ---------------- | ----------------------------------------------- |
-| [[Strength]]     | Used to parry or block.                         |
-| [[Dexterity]]    | Used to parry or dodge.                         |
-| [[Constitution]] | Resist poison, sleep and other similar effects. |
-| [[Awareness]]    | Dodging.                                        |
-| [[Intelligence]] | Defend from illusions or traps.                 |
-| [[Willpower]]    | Defend from corruption, chaos and temptation.   |
+| [[strength]]     | Used to parry or block.                         |
+| [[dexterity]]    | Used to parry or dodge.                         |
+| [[constitution]] | Resist poison, sleep and other similar effects. |
+| [[awareness]]    | Dodging.                                        |
+| [[intelligence]] | Defend from illusions or traps.                 |
+| [[willpower]]    | Defend from corruption, chaos and temptation.   |
 > [!note] Dodging bullets
 > When the character "Dodges" a shot, they are actually getting out of the way of the shooter before the trigger is pulled.
 ### Effectiveness of a Defense for a given Weapon
@@ -65,7 +65,7 @@ The chosen approach for the defense roll might be very useful against some attac
 > If a weapon is going to bypass a specific approach to Defense, a GM should always try to telegraph that fact. It could be useful to describe the weapon or the enemy in some detail, or even let the players know the specific Tag which makes the attacker special.
 
 ## Penalties & bonuses
-> See [[cover]], [[tags]], [[rolls]]
+> See [[cover]], [[tags]], [[rolling-dice]]
 
 A GM will impose **penalties** in situations where:
 - **Defending is difficult** regardless of the selected stat.

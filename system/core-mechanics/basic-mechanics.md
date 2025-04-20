@@ -24,7 +24,7 @@ status:
 > Check [[order-of-play]]
 
 The game is always played in rounds. A round contains the turn for each character.
-- During [[Exploration]], a round takes 5 to 10 minutes.
+- During [[exploration]], a round takes 5 to 10 minutes.
 - During [[combat]], a round takes seconds. PCs get an action, and might reposition themselves.
 - During [[downtime]], a round can take several days to a week.
 

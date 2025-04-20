@@ -24,7 +24,9 @@ status:
 - Some tags have no tier.
   > [!example]
   > *Petty* (for an item) is a Tier 0 tag for infinitely stackable items.
-- [[space-time-visibility-cost-connections]] use tiers.
+
+> [!info] Some concepts measured in Tiers:
+> [[space-tiers|Space]], [[time-tiers|Time]], [[cost-tiers]], [[vision-tiers|Vision]], [[social-standing-tiers|Social Standing]]
 
 ## Modifying Tiers
 A Tag's Tier may be changed because it makes narrative sense and the table agrees.

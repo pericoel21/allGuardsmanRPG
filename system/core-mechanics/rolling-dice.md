@@ -53,7 +53,7 @@ Whether a PC is performing a Check or a Test, the degree of effectiveness of the
 
 ### Failure and consequences
 A failure is a roll where the **outcome of the d12 is greater than the Stat** selected by the player (plus bonuses). A failure might have direct or indirect consequences:
-- Many **locations have [[Clocks]]** associated with them. **Each failure ticks a segment** of the clock. Once it is completed, a **negative event** happens.
+- Many **locations have [[clocks]]** associated with them. **Each failure ticks a segment** of the clock. Once it is completed, a **negative event** happens.
 - In other situations, failure might entail direct consequences.
 - In [[combat]], a failure when dodging means a PC suffers an attack.
 
@@ -62,9 +62,9 @@ A failure is a roll where the **outcome of the d12 is greater than the Stat** se
 - A *Fumble* occurs when the outcome of a roll is a 12.
 
 > [!example]
-> A PC rolls [[Strength]]. His STR score is 4. If the outcome of the roll is 4, the roll not only succeeds, but it is a Critical.
+> A PC rolls [[strength]]. His STR score is 4. If the outcome of the roll is 4, the roll not only succeeds, but it is a Critical.
 
-For criticals and fumbles, consult the tables [[crits-fumbles]]
+For criticals and fumbles, consult the tables [[criticals]]
 
 ## The Check
 The Check is the simplest roll. The outcome of a check is more or less **binary,** but the **Tier of Success still matters**.
@@ -90,8 +90,8 @@ Some **negative consequences might be avoided** if the roll succeeds (equal or u
 The test is a roll that measures the degree of completion of an action over time.
 - The **Test Tier** is the Success Tier required to pass a Test.
 - To fully succeed at a Test, the PC needs to accumulate a **Success Tier equal to the Tier of the Test.**
-- The Success Tier **can be accumulated during several rounds** of play as long as the PC **doesn't fail.** ([[Rounds]])
-- The Success Tier can also be **accumulated by several PCs** ([[Helping]]) if narratively appropriate.
+- The Success Tier **can be accumulated during several rounds** of play as long as the PC **doesn't fail.**
+- The Success Tier can also be **accumulated by several PCs** ([[helping-teamwork]]) if narratively appropriate.
 
 > [!info] GMs: Give Feedback about $
 > Succeeding rolls in a test should have an in-world meaning besides the meta concern of accumulating $. The characters must have a diegetic reason to keep doing the action, something that explains why do they "keep at it" instead of trying something different.
@@ -129,7 +129,7 @@ In some cases, the Test is an **activity that can only be attempted once.** If i
 Other option is to have a situation where, if the Test fails, it can be attempted again but starting all over.
 
 #### Test clocks
-For some tests, it might be interesting to have a [[Clocks|Clock]] tracking the number of failed rolls. A test completely fails if the [[Clocks|Clock]] is filled.
+For some tests, it might be interesting to have a [[clocks|Clock]] tracking the number of failed rolls. A test completely fails if the [[clocks|Clock]] is filled.
 
 ### Countdown test
 Fill a clock vs npcs that empty it
@@ -220,7 +220,7 @@ Both for rolls and tests, accumulating successes over the needed number can:
 - Better the results of attacks / magic?
 
 ## Crits and Fumbles
-see [[crits-fumbles]]
+see [[criticals]]
 - Lower clocks?
 
 ## Calling the roll

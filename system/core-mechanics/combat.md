@@ -50,6 +50,6 @@ Process of defending:
    If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.
 
 ## Handling Fumbles and Crits
-> See [[crits-fumbles]]
+> See [[criticals]]
 
 A critical defense roll can also be a fumble in the attack.

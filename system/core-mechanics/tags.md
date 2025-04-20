@@ -2,27 +2,14 @@
 display-name: Tags
 tags:
   - mechanics
+  - core
+  - hub
 aliases:
   - Tags
-  - Wild Tag
-  - Blank Tag
   - Tag
-  - Wild Tags
-  - Blank Tags
-  - Bronze Tags
-  - Silver Tags
-  - Gold Tags
-  - Metallic Color
-  - Metallic Colors
-  - Tag Color
-  - Tag Colors
-  - Feat
-  - Feat Tag
-  - Feat Tags
-abstract: Tags 101, how to, tag colors, tag types
+abstract: Tags 101, how to, hub
 status:
   - untested
-  - wip
 ---
 # Tags
 > See [[traits]], [[tier-system]]
