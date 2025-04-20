@@ -12,7 +12,7 @@ status:
   - wip
 ---
 # Trickshots
-> See [[combat]], [[attack-check]]. [[rolling-dice]]
+> See [[combat]], [[attack-check]], [[rolling-dice]], [[criticals]], [[wounds]]
 
 A Trickshot is an **attack made to an specific part of the target, or in a very specific way.** The intention could just be to **make more damage,** but a Trickshot can also be used to **hinder** the enemy. 
 
@@ -34,11 +34,11 @@ A Trickshot is usually a **bet**, because it **rises the Check's Tier**, making 
 ## Trickshot Effect
 There are three possible effects if a Trickshot is successful.
 
-| Effect               | Description                                                | Difficulty |
-| -------------------- | ---------------------------------------------------------- | ---------- |
-| **Hinder the enemy** | Impose a negative **Blank Tag** instead of causing damage. | Easiest    |
-| **Do extra damage**  | Increase the resulting **damage** of the attack.           | Hard       |
-| **Do Stat damage**   | Decrease the **Stats** of the enemy directly.              | Very Hard  |
+| Effect               | Description                                                     | Difficulty |
+| -------------------- | --------------------------------------------------------------- | ---------- |
+| **Hinder the enemy** | Impose a negative **Blank Tag** instead of causing damage.      | Easiest    |
+| **Do extra damage**  | Increase the resulting **damage** of the attack.                | Hardest    |
+
 ### Hinder the enemy
 Hindering the enemy consists on **creating a negative Blank Tag affecting that enemy**. That tag is defined when the Trickshot is declared:
 - A brief discussion at the table is held to **name the Tag**.
@@ -48,5 +48,16 @@ Hindering the enemy consists on **creating a negative Blank Tag affecting that e
 **If the attack still succeeds** even with the increased Check Tier, the **new Blank Tag is materialized**, along its narrative implications.
 
 ### Do extra damage
+Doing extra damage consists in **targeting a specific part** of the enemy, or **attacking him in a special way**, with the intent of **damaging more severely**.
 
-### Do Stat damage
+The benefits of this approach are:
+- Obviously, the **damage is increased**.
+- **If a Wound results from this attack**, the player has some limited freedom on **choosing the Stat affected** by the wound.
+
+#### Increasing the damage
+On a successful case of this specific Trickshot, add the [[luck|Luck]] Stat [[tier-die|Tier Die]] to the Tier of Success.
+
+#### Choosing a Wound
+When rolling in a Wound table after this Trickshot is successful:
+- The player has **one more Advantage (+1/+/)** in their [[luck|Luck]] Stat [[tier-die|Tier Die]] for the roll.
+- The player might choose any wound below the resulting one (that one included).

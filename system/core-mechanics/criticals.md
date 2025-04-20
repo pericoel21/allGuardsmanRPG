@@ -37,6 +37,9 @@ When performing a [[rolling-dice|Check]] or a [[rolling-dice|Test]], the **roll 
 > 
 > Note that **any result below 7 is a success but not a critical**, because the maximum natural roll that can be successful in this case is 7. This includes rolling a 5, which in other situations might be a critical - The PC's STR Tier is 5 unmodified.
 
+### Expanded Crit Range
+Some [[tag-classes|Feat Tags]] might apply a condition called **Expanded Critical Range**. If the **conditions stipulated by the Feat** are met, the PC might **consider any natural 1 roll a Critical**, in addition to the regular Criticals.
+
 ## Effect of a Crit
 > See [[tier-die|Tier Dice]]
 
@@ -46,5 +49,3 @@ When the outcome of a roll is a Critical, the **Tier of Success is calculated as
 > The PC has **rolled a Critical with a Tier of Success of 7**. The PC has a **Luck Stat of 2**, so he rolls the associated **Tier Die**, in this case, a **d6**. The **result** of that d6 roll **is a 2, and he adds it to the previous 7$**.
 > 
 > > The **resulting** *Tier of Success* of the STR roll **is 9\$**.
-## Expanded Crit Range
-Some [[tag-classes|Feat Tags]] might apply a condition called **Expanded Critical Range**. If the **conditions stipulated by the Feat** are met, the PC might **consider any natural 1 roll a Critical**, in addition to the regular Criticals.
