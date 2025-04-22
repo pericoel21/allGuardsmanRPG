@@ -8,6 +8,7 @@ I'm looking for:
 - Dynamic gameplay.
 - No division between combat and regular play.
 ## Brainstorming
+- Wounds don't affect CON or WILL because it is a mess to calculate further wounds.
 - Track failures of all PCs. Triggers when X failures are met. Clocks.
 - MTG alignment?
 - Dungeon exploration procedures

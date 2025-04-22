@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d3d822aec4f6ee7d","type":"file","file":"Brainstorming.md","x":-640,"y":-420,"width":640,"height":1060}
+		{"id":"d3d822aec4f6ee7d","type":"file","file":"brainstorming.md","x":-640,"y":-420,"width":640,"height":1060}
 	],
 	"edges":[]
 }

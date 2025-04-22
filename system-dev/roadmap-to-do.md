@@ -10,7 +10,6 @@ aliases:
 abstract: 
 status:
 ---
-
 # Roadmap & To-Do
 ## Roadmap
 1. Skeleton of the system to test main mechanics.
@@ -23,18 +22,18 @@ status:
 ### System Skeleton
 Stuff at usable level, not finished (`#untested` tag).
 - [x] PC creation
-- [ ] Stats
+- [x] Stats
 - [ ] NPCs / enemies
 - [ ] Combat (Polish it well!)
-	- [ ] Defense Checks
-	- [ ] Attacking
+	- [x] Defense Checks
+	- [x] Attacking
 	- [x] Fumbles
 	- [x] Crits
 	- [ ] Ranges
 	- [x] trickshots
-	- [ ] aiming
-- [ ] Wounds and Health
-- [ ] Helping
+	- [x] aiming
+- [x] Wounds and Health
+- [x] Helping
 - [ ] Items
 - [ ] Some items
 - [x] Tier System
@@ -47,6 +46,7 @@ When alpha is ready, the system could be public
 - [ ] Rewrite attack & defense to include psyker stuff
 - [ ] All tables needed for PC creation
 - [ ] Iconic Items
+- [ ] Cleanup all combat related notes
 ### First Playtest
 - [ ] Psyker stuff
 - [ ] PC creation tables complete
@@ -57,4 +57,4 @@ When alpha is ready, the system could be public
 - [ ] Wound tables for typical guns
 
 ### Further test games
-- [ ] 90% of the Core System marked with the Tag "untested"
+- [ ] 90% of the Core System marked with the Tag "untested" (at least)

@@ -12,7 +12,7 @@ status:
   - wip
 ---
 # Trickshots
-> See [[combat]], [[attack-check]], [[rolling-dice]], [[criticals]], [[wounds]]
+> See [[combat]], [[attack-check]], [[rolling-dice]], [[criticals]], [[pain-wounds]]
 
 A Trickshot is an **attack made to an specific part of the target, or in a very specific way.** The intention could just be to **make more damage,** but a Trickshot can also be used to **hinder** the enemy. 
 

@@ -18,25 +18,28 @@ status:
 # Player Character Stats
 The Stats of a Player Character define their mental and physical aptitudes and their status, both in terms of health and social well-being.
 
-| Physical Stats   | Mental Stats     | Status Stats                       | Social Standing Stats |
-| ---------------- | ---------------- | ---------------------------------- | --------------------- |
-| [[strength]]     | [[awareness]]    | [[chaos]]                          | [[connections]]       |
-| [[dexterity]]    | [[intelligence]] | [[wounds-health-recovery\|Wounds]] | [[wealth]]            |
-| [[constitution]] | [[willpower]]    | [[luck]]                           |                       |
+| Physical Stats   | Mental Stats     | Status Stats                   | Social Standing Stats |
+| ---------------- | ---------------- | ------------------------------ | --------------------- |
+| [[strength]]     | [[awareness]]    | [[chaos]]                      | [[connections]]       |
+| [[dexterity]]    | [[intelligence]] | [[pain-wounds\|Pain & Wounds]] | [[wealth]]            |
+| [[constitution]] | [[willpower]]    | [[luck]]                       |                       |
 ## Uses of stats
 
-| Stat                                         | Use                                                                                                                              |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[strength]]                                 | Some melee weapons. Carry capacity. Using some heavy items.                                                                      |
-| [[dexterity]]                                | Some melee weapons. Ranged weapons. Speed. Dodge. Coordination, acrobatics, fine motor tasks.                                    |
-| [[constitution]]                             | Number of wounds. Resistance to poison, sleep and Corruption. Physical HP.                                                       |
-| [[awareness]]                                | Reading the room. Perception. Reflexes. Good vision. Sniper weapons. Raw Psyker power. Moment-to-moment strategy. Finding clues. |
-| [[intelligence]]                             | Knowledge & Will. Learning speed. Psyker ability. Sciences, engeniering. Theoretical strategy.                                   |
-| [[willpower]]                                | Instinct. Psyker resiliance. Animal handling. Leadership. Mental HP                                                              |
-| [[chaos]]                                    |                                                                                                                                  |
-| [[wounds-health-recovery\|Wounds]], [[luck]] |                                                                                                                                  |
-| [[connections]]                              |                                                                                                                                  |
-| [[wealth]]                                   |                                                                                                                                  |
+| Stat                             | Use                                                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[strength]]                     | Some melee weapons. Carry capacity. Using some heavy items.                                                                      |
+| [[dexterity]]                    | Some melee weapons. Ranged weapons. Speed. Dodge. Coordination, acrobatics, fine motor tasks.                                    |
+| [[constitution]]                 | Number of wounds. Resistance to poison, sleep and Corruption. Physical HP.                                                       |
+| [[awareness]]                    | Reading the room. Perception. Reflexes. Good vision. Sniper weapons. Raw Psyker power. Moment-to-moment strategy. Finding clues. |
+| [[intelligence]]                 | Knowledge & Will. Learning speed. Psyker ability. Sciences, engeniering. Theoretical strategy.                                   |
+| [[willpower]]                    | Instinct. Psyker resiliance. Animal handling. Leadership. Mental HP                                                              |
+| [[chaos]]                        |                                                                                                                                  |
+| [[hit-points]]                   |                                                                                                                                  |
+| [[pain-wounds\|Wounds]] |                                                                                                                                  |
+| [[luck]]                         |                                                                                                                                  |
+| [[connections]]                  |                                                                                                                                  |
+| [[wealth]]                       |                                                                                                                                  |
+
 
 ## Using Stats for social interactions
 To arbitrate social interactions, any Stat can be used if deem adequate.

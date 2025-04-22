@@ -19,11 +19,16 @@ In combat, instead of attacking, **a PC can aim to better their next attack**.
 
 > [!example] Examples of aiming:
 > - Study the movements of an enemy, looking for an opening.
+> - Focusing to be mentally ready for a fight.
 > - Try to find a weak spot in the armor of a vehicle.
 > - Look for the perfect spot in a mechanism, where a chain reaction can be started.
 > - Wait for an enemy to fall for a distraction.
 
-The action of aiming is performed through a [[rolling-dice|Test]]. A PC can spend more than one turn accumulating the benefits of aiming.
+> [!important] Aiming in a nutshell:
+> The action of aiming is performed through a [[rolling-dice|Test]]:
+> - A PC **can spend more than one turn** accumulating the benefits of aiming.
+> - The **Tiers of Success accumulated** while Aiming **increase the Stat** of the next attack.
+> - The **Tier of the Test equals the Tier of an enemy's Stat** (can be modified).
 
 ## Selecting a Stat
 Like in any other Check or Test, **it is possible to select any Mental or Physical Stat to perform the aiming Test** if the selection is truly **justified** and accepted by the GM. Nevertheless, some Stats are easier than others to justify.
@@ -53,6 +58,16 @@ Like in any other Check or Test, **it is possible to select any Mental or Physic
 
 ### Penalties and bonuses
 (bonuses or penalties depending on how justifiable is the stat, plus how well the approach fits. Go for AWA, or INT if it fits. Any other Stat can be difficult to justify)
+
+## How to Aim
+### The Aim Test
+Aiming is a **Test** performed with the **selected Sta**t, and the **Tier of the Test** equals one of the **enemy's Stats**.
+
+The specific Stat is the one that better r**epresents a quality of the enemy** that **opposes the approach to aiming** describe by the player. In most cases, it will be [[instinct]].
+### Effect of Aiming
+The next attack to the aiming Test has the following benefits:
+- The **Stat** used for the attack has a **bonus equal to the Tiers of Success** accumulated during the Aiming Test. 
+- If the shot produces a **Wound**, it is rolled as usual. Then, the player can **choose any wound below or equal** the rolled number on the Wound table.
 
 ## Failing the Test
 > See [[clocks]]

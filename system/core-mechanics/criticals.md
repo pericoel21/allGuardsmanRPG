@@ -1,10 +1,8 @@
 ---
 "": Critical Sucesses
 tags:
-  - database
-  - hub
-  - utility
-  - gm-advice
+  - core
+  - mechanics
 aliases:
   - Crit
   - Critical

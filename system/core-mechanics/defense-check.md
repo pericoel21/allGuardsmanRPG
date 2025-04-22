@@ -22,11 +22,12 @@ When a PC is attacked by an enemy, a **Defense Roll is required to determine if 
 > 2. **Roll defense**
 > 	   Roll under the selected stat, applying tags and other modifiers (like [[cover]])
 > 3. **Subtract $ from the damage**
+>       If the outcome is a [[criticals|Crit]], the damage is avoided completely.
 >       The damage comes from the weapon used. Subtract from it the $ generated in the [[defense-check]].
 > 4. **Take the damage**
 > 	   The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
 > 5. **Take a Wound**
-> 	   If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.
+> 	   If your [[hit-points]] are 0 and you take more damage, take a [[pain-wounds|Wound]]. Tier = damage.
 
 ## Selecting a Stat
 The player describes how the PC handles the defense. This allows for any Defense Roll to be done with any Physical or Mental [[pc-stats|Stat]], within limits.
@@ -64,6 +65,11 @@ The chosen approach for the defense roll might be very useful against some attac
 > [!danger] Telegraphing ineffective approaches to Defense
 > If a weapon is going to bypass a specific approach to Defense, a GM should always try to telegraph that fact. It could be useful to describe the weapon or the enemy in some detail, or even let the players know the specific Tag which makes the attacker special.
 
+## Crits & Fumbles
+If a PC rolls a **[[criticals|Crit]] on a Defense Check**, the **damage is avoided completely** and the incoming attack has **no consequences**.
+
+**Fumbles** are calculated **as usual**.
+
 ## Penalties & bonuses
 > See [[cover]], [[tags]], [[rolling-dice]]
 
@@ -74,7 +80,9 @@ A GM will impose **penalties** in situations where:
 
 > [!example] Examples of situations imposing penalties
 > - The PC is not aware of the enemy.
-> - The 
+> - The PC is immobilized, grappled or paralyzed.
+> - The action performed as a defense is ineffective.
+> - The selected Stat is ineffective.
 
 A defense roll can have **bonuses**:
 - If the **PC is in cover** while defending from a **ranged attack**.
@@ -106,15 +114,13 @@ In this situation, the character still has **a chance to avoid most of the damag
 - The selected Stat **must be a mental Stat against a mental attack.**
 -  **The PC will take at least 1 Tier of damage**, even if the incoming Tier of damage is reduced to 0.
 
-## Fumbles & Crits
-
 ## Taking damage
+> See [[pain-wounds]]
+
 The purpose of a Defense Check to calculate the amount of damage taken from the attack.
 
 The damage taken is calculating by **subtracting the Tier of Success ($) from the Tier of Damage** of the attack. The Tier of Damage depends on the weapon used. 
 
 If the incoming Damage is more than 0, the PC takes the damage, **subtracting it from the [[hit-points|Hit Points]]** total.
 
-**If the Hit Points amount reaches 0, it doesn't carry over** for that attack. However, **when taking damage with Hit Points equal to 0**, the PC **takes a Wound**, instead. The **Tier of the wound equals the incoming Damage.**
-
-Luck?
+**If the Hit Points amount reaches 0, it doesn't carry over** for that attack. However, **when taking damage with Hit Points equal to 0**, the PC **takes a Wound**, instead. The **Tier of the wound equals the incoming Damage**. When taking a wound, the PC must roll on the appropriate Wound table.

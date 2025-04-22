@@ -22,7 +22,7 @@ Movement and positioning is relevant in combat too. (No static combat like 5e)
 
 
 ## Attacking
-> See [[attack-check]], [[hit-points]], [[wounds]]
+> See [[attack-check]], [[hit-points]], [[pain-wounds]]
 
 ### Basic Attacks
 The Attack Check is done exactly the same way as any other check:
@@ -35,7 +35,7 @@ Enemies have Hit Points. When they are reduced to 0 by the Damage of the attacks
 
 
 ## Defending from an Attack
-> See [[defense-check]], [[hit-points]], [[wounds-health-recovery]]
+> See [[defense-check]], [[hit-points]], [[pain-wounds]]
 
 Process of defending:
 1. **Describe what the PC does to defend**
@@ -47,7 +47,7 @@ Process of defending:
 4. **Take the damage**
    The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
 5. **Take a Wound** 
-   If your [[hit-points]] are 0 and you take more damage, take a [[wounds-health-recovery|Wound]]. Tier = damage.
+   If your [[hit-points]] are 0 and you take more damage, take a [[pain-wounds|Wound]]. Tier = damage.
 
 ## Handling Fumbles and Crits
 > See [[criticals]]

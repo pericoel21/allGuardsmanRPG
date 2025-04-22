@@ -33,7 +33,7 @@ A Tag's Tier may be changed because it makes narrative sense and the table agree
 > [!example] Examples of Tier modification are:
 > - PCs changing circumstances of the environment that are defined as a Tag.
 > - [[pc-progression]] can happen in a way that modifies the Tier of player Tags.
-> - [[wounds-health-recovery|Wounds]] are recovered if their Tier is reduced to 0.
+> - [[pain-wounds|Wounds]] are recovered if their Tier is reduced to 0.
 
 Modifying the tier can happen in two ways: Modifying the Tier directly, or through [[tier-shifting]].
 ### Direct modification

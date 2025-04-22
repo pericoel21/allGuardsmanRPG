@@ -22,93 +22,51 @@
             }
           },
           {
-            "id": "8998880e88d47a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/core-mechanics/defense-check.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "defense-check"
-            }
-          },
-          {
-            "id": "3d31983226a83198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/core-mechanics/attack-check.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "attack-check"
-            }
-          },
-          {
             "id": "77663be12ecaa13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorming.md",
+                "file": "brainstorming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorming"
+              "title": "brainstorming"
+            }
+          },
+          {
+            "id": "ec1fd4569b6ad731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/core-mechanics/pain-wounds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "pain-wounds"
             }
           }
         ]
       },
       {
-        "id": "74a621274c4443a3",
+        "id": "5e3cd4dee4dccfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9e5c29b7366868",
+            "id": "68beae678c70a856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/core-mechanics/aiming.md",
+                "file": "system/core-mechanics/npcs-enemies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aiming"
-            }
-          },
-          {
-            "id": "5a846f01f9b4b1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/core-mechanics/criticals.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "criticals"
-            }
-          },
-          {
-            "id": "2feac7cf435e6747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fumbles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fumbles"
+              "title": "npcs-enemies"
             }
           }
         ]
@@ -273,34 +231,33 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9a9e5c29b7366868",
+  "active": "4b5d1bc17e8ebee3",
   "lastOpenFiles": [
+    "system/core-mechanics/npcs-enemies.md",
+    "system/gm-section/helping-teamwork.md",
     "system-dev/roadmap-to-do.md",
-    "system/core-mechanics/defense-check.md",
-    "system/core-mechanics/attack-check.md",
-    "fumbles.md",
+    "taking-.md",
+    "system/core-mechanics/recovery-scars.md",
+    "system/core-mechanics/pc-stats.md",
+    "system/core-mechanics/pain-wounds.md",
+    "system/core-mechanics/fumbles.md",
+    "brainstorming.md",
+    "pain.md",
+    "stat-damage.md",
     "system/core-mechanics/criticals.md",
     "system/core-mechanics/aiming.md",
+    "system/core-mechanics/attack-check.md",
+    "system/core-mechanics/defense-check.md",
     "system/core-mechanics/trickshots.md",
     "system/core-mechanics/tier-die.md",
-    "character-sheet.md",
+    "system/core-mechanics/character-sheet.md",
     "system/core-mechanics/happy-idea.md",
-    "Brainstorming.md",
     "system/core-mechanics/tags.md",
     "system/core-mechanics/rolling-dice.md",
-    "system/gm-section/helping-teamwork.md",
     "system/core-mechanics/luck.md",
     "exploration.md",
     "system/core-mechanics/tier-system.md",
-    "system/core-mechanics/pc-stats.md",
     "system/core-mechanics/awareness.md",
-    "system/core-mechanics/strength.md",
-    "system/core-mechanics/dexterity.md",
-    "system/core-mechanics/constitution.md",
-    "system/core-mechanics/intelligence.md",
-    "system/core-mechanics/wealth.md",
-    "clocks.md",
-    "system/core-mechanics/npcs-enemies.md",
     "_utility/csv/spreadsheets/lu83242lq5r.tmp",
     "_utility/csv/spreadsheets/items_objs.ods",
     "_utility/csv/spreadsheets/lu83242lq3a.tmp",
