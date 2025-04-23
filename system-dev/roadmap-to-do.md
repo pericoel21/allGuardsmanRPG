@@ -20,7 +20,7 @@ status:
 6. Lots of tables.
 ## To-Do
 ### System Skeleton
-Stuff at usable level, not finished (`#untested` tag).
+Stuff at usable level, not finished (`#untested` tag). Solo / small scale play.
 - [x] PC creation
 - [x] Stats
 - [x] NPCs / enemies
