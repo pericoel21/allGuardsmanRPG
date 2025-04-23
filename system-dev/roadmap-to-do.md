@@ -23,13 +23,17 @@ status:
 Stuff at usable level, not finished (`#untested` tag).
 - [x] PC creation
 - [x] Stats
-- [ ] NPCs / enemies
+- [x] NPCs / enemies
+- [ ] Clocks (basics)
+- [x] Order of play
 - [ ] Combat (Polish it well!)
 	- [x] Defense Checks
 	- [x] Attacking
 	- [x] Fumbles
 	- [x] Crits
-	- [ ] Ranges
+	- [ ] Movement action
+	- [x] Turn order (combat)
+	- [ ] Initiative
 	- [x] trickshots
 	- [x] aiming
 - [x] Wounds and Health
@@ -47,6 +51,7 @@ When alpha is ready, the system could be public
 - [ ] All tables needed for PC creation
 - [ ] Iconic Items
 - [ ] Cleanup all combat related notes
+- [ ] Social combat
 ### First Playtest
 - [ ] Psyker stuff
 - [ ] PC creation tables complete

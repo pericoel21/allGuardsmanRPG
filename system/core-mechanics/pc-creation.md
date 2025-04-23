@@ -72,10 +72,12 @@ Connections affect the PC of the player who rolls, but also the PC of the player
 > - It might have repercussions on other aspects of play, like a fight, but **the Tag should not be used to gain physical power, combat prowess or to optimize the PC.**
 > - This (and other psychological tags) substitute the social stats from other games.
 
-The Tier of the Tag is negotiated with the GM, but it always stays in the 1 to 3 range.
+The **Tier of the Tag is negotiated** with the GM, but it always **stays in the 1 to 3 range**. A **GM should reward interesting and creative Tags** that give depth to the PC. The GM can incentive the player by:
+- Rewarding extra starting Luck to a PC.
+- Offering a greater Tier for the tag Tag.
 
-> [!tip] Negotiating the Tier of the Psychological Tag
-> A tag that can be employed against the PC will be rewarded by also being a higher Tier than one which is safe.
+> [!tip] Creating interesting tags
+> An interesting Tag is one that can both benefit and hinder the PC, always adding flavor and fun to the game. Think of vices, flaws, idiosyncrasies, ideologies...
 ### Last touches
 >This is the moment to take a look at the PC and make the last adjustments.
 

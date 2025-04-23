@@ -87,3 +87,7 @@ Wild Tags are very powerful because they refuse to be transformed into Feat Tags
 > It is a Tag with great usability both in favor and against the PC:
 > - The player can be as **creative** as he wants when using the tag. As long as the idea is accepted by the rest of the players and the GM gives the green light, *Happy Trigger Finger* can be employed in situations where it is fitting, outside the obvious ones.
 > - **The Tag should be used against the PC** too, probably resulting in a healthy dose of friendly fire. Both the GM and the players at the table can make use of that Tag in a negative way.
+
+
+
+Aspects. alternative names for Wild Tags that mean similar things but are easily applied to other situations.

@@ -33,6 +33,4 @@ XP to heal wounds?
 
 Discussion about tags, modify them if players don't play accordingly, make them grow if they do.
 
-
-
-
+CON & WIL don't have wounds so make them harder to upgrade

@@ -15,11 +15,13 @@ status:
 ### Why Roll Under?
 - I like not having to set a specific difficulty class (like in many d20 systems).
 - I also like having some variation on what number is the target for each action, given a set character (as compared to a fixed DC like in IC RPG).
-### Why d100?
-- I love having the tens number determine the degree of success.
-- I want to have a big number on the stats, so I can use several dice type as Stat Damage.
+
+### Why d12?
+I love having a roll that determines both if it is successful or not, and the Tier of success. I started with a d100 system, but I don't see the point on having so many degrees of progression. With a d12 I get enough variation on the rolls to create a whole Tier of Success system. A die like d20 has too big of a result in some cases. The idea is to have PCs that roll a d12 and compare with a 3 to 8 range (usually). This gives a 1-8 Tier of Success range that can be augmented with tags.
+
 ### Why Black Jack?
-- I think humans like rolling big numbers.
+I think humans like rolling big numbers. Bigger is better in this system. But also too big is bad. It feels like a balancing act.
+
 ## On Stats
 > See [[pc-stats]]
 ### Why those Stats?
@@ -30,6 +32,14 @@ status:
 - I like Stat damage on every stat.
 	- The active stats might be damaged more often in a roundabout way (wounds).
 	- The passive ones act as HP.
+
+### Why different stats for PCs and NPCs?
+In PCs it gives more freedom to adapt a description to a Stat. In an NPC, less stats (and the specific names for them) help the user look through it quick and understand the character.
+
+## On Wounds
+### Why don't ever affect CON or WILL with the wounds?
+Because CON and WIL are the factors behind pain (Pain = CON + WIL + Luck). If I affect CON or WIL with wounds, it gets recursive and players have to modify Pain on the fly. I think it is a cleaner experience to calculate it once.
+
 ## On Tags, Tier and Success
 ### Why the heavy use of Tier?
 - Global way to set power scales, so players and GM get used.
@@ -46,6 +56,7 @@ status:
 - I prefer unmodified rolls or rolls with advantage.
 - This is a third option, in the middle of natural rolls and /+/ or /-/ in terms of power.
 - I do the 10s increment because anything less than that is barely noticeable by players.
+
 ## On Colors & Alignment
 > [!note] Any character or faction can be represented by a combination of colors, and / or by an alignment.
 

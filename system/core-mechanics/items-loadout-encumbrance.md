@@ -25,3 +25,7 @@ status:
 		- Negative tags make modification easier / cheaper
 
 Encumbrance: Assault gear vs backpacking gear. PCs are doing a mission. They carry little equipment, the only needed for that specific mission. Loadout sequence at the beginning
+
+Items: default are bronze tags
+Petty items too? Or are those silver by default?
+- Petty items = quantic inventory. In the party sheet: unlocked for the whole party.

@@ -36,17 +36,31 @@
             }
           },
           {
-            "id": "ec1fd4569b6ad731",
+            "id": "ebbe122cb6d6ccd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/core-mechanics/pain-wounds.md",
+                "file": "system/core-mechanics/npcs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pain-wounds"
+              "title": "npcs"
+            }
+          },
+          {
+            "id": "6ee18d3b5ddce3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "initiative-check.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "initiative-check"
             }
           }
         ]
@@ -56,20 +70,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68beae678c70a856",
+            "id": "b6fdd57549bb659f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/core-mechanics/npcs-enemies.md",
+                "file": "system-dev/design-considerations.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "npcs-enemies"
+              "title": "design-considerations"
+            }
+          },
+          {
+            "id": "62f8d256686a5072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movement-action.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "movement-action"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,41 +262,42 @@
   },
   "active": "4b5d1bc17e8ebee3",
   "lastOpenFiles": [
-    "system/core-mechanics/npcs-enemies.md",
-    "system/gm-section/helping-teamwork.md",
+    "initiative-check.md",
     "system-dev/roadmap-to-do.md",
+    "movement-action.md",
+    "system/core-mechanics/items-loadout-encumbrance.md",
+    "system/core-mechanics/order-of-play.md",
+    "system/core-mechanics/combat.md",
+    "system/core-mechanics/npcs.md",
+    "_utility/csv/spreadsheets/lu108274ejhb.tmp",
+    "_utility/csv/spreadsheets/fumbles_objs.ods",
+    "_utility/csv/spreadsheets/wounds_objs (copy).ods",
+    "brainstorming.md",
+    "_utility/csv/spreadsheets/lu9191352u3.tmp",
+    "system/core-mechanics/tag-classes.md",
+    "system/core-mechanics/tags.md",
+    "system/core-mechanics/defense-check.md",
+    "clocks.md",
+    "system/core-mechanics/pain-wounds.md",
+    "system-dev/design-considerations.md",
+    "system/core-mechanics/pc-progression.md",
+    "system/core-mechanics/pc-creation.md",
+    "_utility/csv/spreadsheets/lu9191352fc.tmp",
+    "system/core-mechanics/attack-check.md",
+    "system/core-mechanics/aiming.md",
+    "system/core-mechanics/space-tiers.md",
+    "crowd-swarm.md",
+    "system/gm-section/helping-teamwork.md",
     "taking-.md",
     "system/core-mechanics/recovery-scars.md",
     "system/core-mechanics/pc-stats.md",
-    "system/core-mechanics/pain-wounds.md",
     "system/core-mechanics/fumbles.md",
-    "brainstorming.md",
     "pain.md",
-    "stat-damage.md",
-    "system/core-mechanics/criticals.md",
-    "system/core-mechanics/aiming.md",
-    "system/core-mechanics/attack-check.md",
-    "system/core-mechanics/defense-check.md",
-    "system/core-mechanics/trickshots.md",
-    "system/core-mechanics/tier-die.md",
-    "system/core-mechanics/character-sheet.md",
-    "system/core-mechanics/happy-idea.md",
-    "system/core-mechanics/tags.md",
-    "system/core-mechanics/rolling-dice.md",
-    "system/core-mechanics/luck.md",
-    "exploration.md",
-    "system/core-mechanics/tier-system.md",
-    "system/core-mechanics/awareness.md",
     "_utility/csv/spreadsheets/lu83242lq5r.tmp",
     "_utility/csv/spreadsheets/items_objs.ods",
     "_utility/csv/spreadsheets/lu83242lq3a.tmp",
     "_utility/csv/spreadsheets/tags_objs.ods",
     "_utility/csv/spreadsheets/lu83242lq37.tmp",
-    "_utility/csv/spreadsheets/wounds_objs.ods",
-    "_utility/csv/spreadsheets/lu83242lq0s.tmp",
-    "_utility/csv/spreadsheets/pcGenTables_objs.ods",
-    "_utility/csv/spreadsheets",
-    "_utility/csv/pcGenTables_objs.ods",
     "allGuardsmanRPG.canvas",
     "allGuardsmanRPG/allGuardsmanRPG.canvas",
     "Systems/os40k/os40k.canvas",

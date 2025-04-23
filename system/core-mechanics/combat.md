@@ -4,35 +4,43 @@ tags:
   - mechanics
   - core
   - combat
+  - hub
 aliases:
   - Fight
   - Combat
-abstract: Combat 101
+abstract: Combat 101 & hub
 status:
-  - todo
+  - wip
+  - untested
+  - needs-revision
 ---
 # Combat
-> See [[social-conflict]]
-
-Movement and positioning is relevant in combat too. (No static combat like 5e)
-
-## Ranges & movement
-> See [[space-tiers]]
+> See [[social-conflict]], [[hit-points]], [[pain-wounds]]
 
 
+## Turn order in combat
+determine turn order (initiative) each round
 
-## Attacking
-> See [[attack-check]], [[hit-points]], [[pain-wounds]]
+## Actions
+> See [[space-tiers]], [[movement-action]], [[attack-check]], [[trickshots]], [[aiming]], [[attack-check]]
+
+
+### Movement
 
 ### Basic Attacks
-The Attack Check is done exactly the same way as any other check:
-- The Tier of the Check is the Toughness of the enemy.
-- The Tier of Success is the Damage applied.
+- The Tier of the Check is the Toughness of the enemy. The Tier of Success is the damage applied. Pain and wounds work like in PCs
 
-Enemies have Hit Points. When they are reduced to 0 by the Damage of the attacks, the enemy rolls for a Wound.
+### Trickshot
+**Attack made to an specific part of the target, or in a very specific way.** The intent could just be to **make more damage,** but a Trickshot can also be used to **hinder** the enemy.
 
-### Called Shots
+### Aiming
+**Upgrades a future attack**.
+To aim, a PC performs a **Test** where they **accumulate successes** that influence the next attack.
 
+Although any stat can be used in theory, **[[awareness|Awareness]] is employed most of the time**, with a second usual Stat being [[intelligence|Intelligence]].
+
+### Initiative Check
+An [[initiative-check|Initiative Check]] is performed at the start of some situations like combat, to determine the Order of Play, but more can be done to better the position of a specific PC.
 
 ## Defending from an Attack
 > See [[defense-check]], [[hit-points]], [[pain-wounds]]
@@ -48,8 +56,3 @@ Process of defending:
    The damage that you didn't get to reduce now is subtracted from your [[hit-points]]. If you reach 0, it doesn't carry over.
 5. **Take a Wound** 
    If your [[hit-points]] are 0 and you take more damage, take a [[pain-wounds|Wound]]. Tier = damage.
-
-## Handling Fumbles and Crits
-> See [[criticals]]
-
-A critical defense roll can also be a fumble in the attack.

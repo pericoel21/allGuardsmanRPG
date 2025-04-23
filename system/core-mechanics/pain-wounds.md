@@ -17,7 +17,7 @@ status:
   - todo
 ---
 # Pain, Wounds & Recovery
-> See [[pc-stats]], [[npcs-enemies]], [[recovery-scars]], [[pc-progression]]
+> See [[pc-stats]], [[npcs]], [[recovery-scars]], [[pc-progression]]
 
 ## Pain & Pain Threshold
 The Pain stat tracks **how much damage** can a character handle **before they take a Wound**.
@@ -51,8 +51,13 @@ The Wound taken is selected from an appropriate Wound table.
 ### Effect of the Wound
 Wounds have several effects on a PC:
 - **PC death**: If a PC has a **number of Wounds equal to their maximum**, and they suffer another one, the PC **dies**.
-- **Stat damage**: Some Wounds **"ransom" Tiers of Stats**.
+- **Stat damage**: Some wounds reduce a Stat.
+	- Part or all of that reduction is a **"ransom"**.
+	- For some Tags, part of the reduction is permanent.
 - **Negative Tags**: Some wounds function as **negative Tags of any [[tag-classes|Class]]**. These can be temporary or permanent.
+
+> [!tip] GM tip:
+> I don't create wounds that affect [[constitution|CON]] or [[willpower|WIL]] on purpose, so it doesn't get messy in a combat, having to recalculate the stat.
 
 ### Healing Wounds
 > See [[recovery-scars]]

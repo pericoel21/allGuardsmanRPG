@@ -1,5 +1,5 @@
 ---
-display-name: NPCs & Enemies
+display-name: NPC
 tags:
   - mechanics
 aliases:
@@ -11,8 +11,11 @@ aliases:
   - Hirelings
   - Hireling
   - NPCs
-  - NPCs & Enemies
-abstract: NPC 101, enemies, neutrals, hirelings
+  - Mook
+  - Mooks
+  - NPC Stat
+  - NPC Stats
+abstract: NPC 101, npc stats, npc types
 status:
   - todo
 ---
@@ -20,10 +23,6 @@ status:
 Any character who is **not directly controlled by the players** counts as the same type of entity, an NPC. Some NPCs can be commanded by PCs and they are called *Hirelings*.
 
 NPCs have an even more simplified set of Stats than the players to make them easier to run in numbers - either for the GM or for players with Hirelings. The intent behind the design of NPCs is to simplify the decision making when interpreting those characters.
-
-
-
-
 
 ## Stats
 NPC Stats are used both for players to roll under them, if they are controlling hirelings, and for enemies to impose Check and Test Tiers.
@@ -73,27 +72,42 @@ NPCs have a short description. Any word **written in italics and capitalized** i
 > > *Spiritual Guide* and *Cultist* of the *Marrow Eaters Cult* specialized in *Bone Telekinesis*. Can use a *Dagger* if cornered. *Weird* combination of *Bookworm* but *Sadistic*.
 
 ### Specific Tags
-More tags for the NPCs can be explicitly written, and the Tier might differ from the one specified with the Nickname.
+More tags for the NPCs can be explicitly written, and the Tier might differ from the one specified with the Nickname. In this case, tags are written the same way they do in PCs.
 
 ## Types of NPCs
+### Mooks
+Mooks are the **default way of representing characters**, including enemies, friendly NPCs, hirelings...
+
+A Mook can be an enemy or not. But there are several [[tag-list|Feats]] which create special types of Mook:
+#### Hirelings
+Hirelings are NPCs hired or convinced by PCs to act as a member of the party.
+- **Players have their sheets and roll their dice**. Checks and Tests performed by Mooks are rolls under that NPC's stat.
+- The **GM interprets them** and has veto over their actions.
+- Morale rolls are used to determine if Mooks follow the PCs in extreme situations.
+- Hirelings get a morale modifier by PCs using [[connections]] or [[wealth]].
+
+#### Swarms & Crowds
+> See [[crowd-swarm]]
+
+Crowds and Swarms are **groups of weak NPCs represented as a single character** for ease of use. They have a **single statblock** and perform a **single action** per turn.
+
+The Swarm or Crowd uniqueness resides on the meaning of the Enemy Tier: in their case, the **Tier always equals the number of spare Wounds** they have. 
+
 ### Basic NPCs
+Many NPCs **might need to be interacted with, but will not fight** against the PCs. Technically this type of NPC can be any other type, like a Mook. The distinction between a Basic NPC and the others is the **amount of information** needed to describe them:
+- **Stats might not be needed.** For basic social rolls, the PC might just roll against the Tier of the NPC or that of any relevant Tag.
+- A description might be useful, but for especially basic NPCs, a **name and nickname might be enough**.
 
-### Enemies
+(WIP)
+### Archenemies & Heroes
+(Do I need them?)
+> See [[pc-stats]], [[pc-creation]]
 
+Archenemies and Heroes are NPCs so  A Swarm or Crowd that they deserve a **full PC statblock**. Although the Stats are the same in name, their use is as the Tier of Checks or Tests, like in the case of any other enemy.
 
-### Hirelings
-- Players have their sheets and roll their dice, but the GM interprets them and has veto over their actions.
-- Hirelings get a morale modifier by PCs using [[connections]] or [[wealth]]
-
-### Crowds
-More wounds
-
-### Arch-Enemies (Heroes?)
-They have the same stats as the player, but still used as a player facing roll.
-
+## NPCs and order of play
+Beat the instinct of an NPC to go before. NPCs go on their instinc's order and at the endo of the round
 
 ## Spells 
 Writen in the NPC for easy access.
-
-
 - Do NPCs get corruption?
