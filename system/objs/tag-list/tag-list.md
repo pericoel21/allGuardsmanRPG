@@ -4,8 +4,6 @@ tags:
 aliases:
   - List of Tags
   - Tag List
-  - Tags
-  - Feats
 abstract: list of all tags
 status:
   - wip

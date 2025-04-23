@@ -49,7 +49,7 @@ Tags can be created during play:
 
 The Class of a Tag defines how broadly can the Tag be applied.
 
-| Type  | Restriction                                    | Tier                                                                             |
+| Class | Restriction                                    | Tier                                                                             |
 | ----- | ---------------------------------------------- | -------------------------------------------------------------------------------- |
 | Blank | Apply whenever possible. Just convince the GM. | Tier 1 by default. Usually Tier 1 or 2.                                          |
 | Wild  | Apply whenever possible. Just convince the GM. | By default, low to mid Tier (2-3).                                               |
