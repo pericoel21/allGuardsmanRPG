@@ -15,9 +15,7 @@ status:
 # Movement Action
 > See [[space-tiers]], [[combat]]
 
-Situations where movement is in moments
-Usually, but not always, used for combat.
-
+The **Movement Action specifies how moving works** in situations where **movement and positioning is critical** and the **action is played in moments**. This usually happens during combat, but not always.
 
 In a regular movement action, a PC can move close. What close means depends on the map. The important thing is to be consistent.
 

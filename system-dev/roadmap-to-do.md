@@ -54,6 +54,7 @@ When alpha is ready, the system could be public
 - [ ] Social combat
 ### First Playtest
 - [ ] Psyker stuff
+- [ ] Integrate West Marches mechanics
 - [ ] PC creation tables complete
 - [ ] PC creation packs
 - [ ] Stats at a good level

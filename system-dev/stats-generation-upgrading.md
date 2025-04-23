@@ -1,9 +1,11 @@
 ---
+display-name: Stat Generation & Upgrading
 tags:
   - mechanics
   - dev
-aliases: 
-abstract: 
+aliases:
+  - Stat Generation & Upgrading
+abstract: Logic behind the generation and upgrading of stats
 status:
   - wip
   - untested

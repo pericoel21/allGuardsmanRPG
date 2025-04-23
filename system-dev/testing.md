@@ -8,9 +8,8 @@ aliases:
   - Testing
   - Test
 abstract: Testing games (theory, tips and objectives)
-status: []
+status:
 ---
-
 # Testing
 ## Theory
 Theory taken from videogame testing.
@@ -44,3 +43,6 @@ Theory taken from videogame testing.
 - Use closed, clearly binary questions to ask for qualitative stuff.
 - Avoid questions without real benefits.
 - Always think what is the use of the answer of any question.
+### Resources
+https://www.nngroup.com/articles/ten-usability-heuristics/
+https://www.nngroup.com/articles/5-test-users-qual-quant/

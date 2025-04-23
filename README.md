@@ -1,6 +1,8 @@
 # AllGuardsman RPG
 This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designed to play in a grimdark science-fantasy setting with lots of humor.
 
+> If you need a quick start on the rules, go to [[players-guide|Player's Guide]].
+
 ## The objectives of this system
 ### Old School gameplay
 - A solid but minimalist system that allows for GM rulings.
