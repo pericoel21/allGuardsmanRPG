@@ -38,9 +38,9 @@ By far, the **biggest problem** with reading Obsidian files in GitHub is that **
 ## Folder Structure
 The repository is divided in several folders that contain all the info structured logically:
 - `root` (that is, files outside any folder): **Stuff that is general to the system**. It can be a bit technical.
-- `_utility` contains **technical stuff**. This is where code stuff goes, and excel files with lots of data. The images on the notes will be links to an image file inside `_utility/media`.
+- `_utility` contains **technical stuff**. This is where code goes, and excel files with lots of data. The images seen on the notes are actually links to an image file inside `_utility/media`.
 - `lore`: Here I place **lore-related notes**.
-- `system`: The meat and potatoes of the repository. Here I place **all the stuff needed the actual running of the game**:
+- `system`: The meat and potatoes of the repository. Here I place **all the stuff needed for the actual running of the game**:
 	- `core-mechanics`: The **system itself**. Here are all the mechanics that make everything work.
 	- `gm-section`: Notes on how to **prep, run and handle the system from a GM's perspective**.
 	- `objs`: **Database** of bits and bobs. Here is where I'll place every Item, Feat, Background option...

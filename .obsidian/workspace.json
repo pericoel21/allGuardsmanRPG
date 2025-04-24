@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +226,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "524cb82120db0b6a",
+  "active": "ba1870d92eabf4c0",
   "lastOpenFiles": [
+    "system/players-guide/players-guide.md",
     "README.md",
     "system-dev/roadmap-to-do.md",
-    "system/players-guide/players-guide.md",
     "control-panel.canvas",
     "system/core-mechanics/tag-metallic-colors.md",
     "system/core-mechanics/tags.md",
