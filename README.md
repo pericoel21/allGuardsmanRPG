@@ -33,6 +33,20 @@ I am creating this repository by pushing my local Obsidian vault. This means:
 - The repository is mostly readable within GitHub, because it uses markdown formatting. **All the vital information is readable in GitHub.**
 - **GitHub lacks some of the quality of life features** that Obsidian does.
 
+By far, the **biggest problem** with reading Obsidian files in GitHub is that **links don't work**. **Instead of clean links** you can click on, you will see **text similar to**: `[[example-page|Example Page]]`. Don't worry! The first name is the name of the page (in this case, `example-page`) and **you can simply navigate to it manually**, inside the folder structure of this repo.
+
+## Folder Structure
+The repository is divided in several folders that contain all the info structured logically:
+- `root` (that is, files outside any folder): **Stuff that is general to the system**. It can be a bit technical.
+- `_utility` contains **technical stuff**. This is where code stuff goes, and excel files with lots of data. The images on the notes will be links to an image file inside `_utility/media`.
+- `lore`: Here I place **lore-related notes**.
+- `system`: The meat and potatoes of the repository. Here I place **all the stuff needed the actual running of the game**:
+	- `core-mechanics`: The **system itself**. Here are all the mechanics that make everything work.
+	- `gm-section`: Notes on how to **prep, run and handle the system from a GM's perspective**.
+	- `objs`: **Database** of bits and bobs. Here is where I'll place every Item, Feat, Background option...
+	- `players-guide`: Notes intended to **guide players**.
+- `system-dev`: Like a devlog. Here I document my **thoughts on building the system** and the **reasoning behind design decisions**.
+
 ## The best possible experience
 If you want the **best possible experience**, pull (download) this repo into your local files and open it with Obsidian. 
 
@@ -43,7 +57,7 @@ Some other recommended plug-ins I use:
 - **Folder Notes:** for a small QoL improvement, where you can click a folder to open a note with the exact same name as the folder. This is a behavior that imitates Notion.
 - **Templater,** only if you want to work in the repository as I do. It allows you to create or apply templates to notes. I use the templates in `_utility/templates`.
 
-## Some extra stuff
+### Some extra stuff
 I'm using some other pieces of software to make things work:
 - I use OpenOffice sheets to catalog all types of stuff. You can find them in the `_utility` folder (they open perfectly on Google Drive or Excel).
 - When I finish them up to their alpha version, run some magic code to create markdown pages for each item, tag, etc; meaning that you'll be able to access them from GitHub too.

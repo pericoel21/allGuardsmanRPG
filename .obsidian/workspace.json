@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d6f1e72d50f4555",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "allGuardsmanRPG.canvas",
-                "viewState": {
-                  "x": 522.312080143241,
-                  "y": 12.150134711563936,
-                  "zoom": -0.22012581436450307
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "allGuardsmanRPG"
-            }
-          },
-          {
             "id": "09a697ec98c873c3",
             "type": "leaf",
             "state": {
@@ -36,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "roadmap-to-do"
+            }
+          },
+          {
+            "id": "ba1870d92eabf4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -231,16 +228,16 @@
   },
   "active": "524cb82120db0b6a",
   "lastOpenFiles": [
+    "README.md",
+    "system-dev/roadmap-to-do.md",
+    "system/players-guide/players-guide.md",
+    "control-panel.canvas",
     "system/core-mechanics/tag-metallic-colors.md",
     "system/core-mechanics/tags.md",
-    "system/players-guide/players-guide.md",
     "system/objs/tag-list/tag-list.md",
     "system/core-mechanics/pc-stats.md",
-    "README.md",
     "system/core-mechanics/movement-action.md",
     "system/players-guide",
-    "system-dev/roadmap-to-do.md",
-    "allGuardsmanRPG.canvas",
     "brainstorming.md",
     "system-dev/testing.md",
     "system-dev/about-headcanon.md",
@@ -263,7 +260,6 @@
     "system/core-mechanics/pc-creation.md",
     "_utility/csv/spreadsheets/lu9191352fc.tmp",
     "system/core-mechanics/attack-check.md",
-    "system/core-mechanics/aiming.md",
     "_utility/csv/spreadsheets/lu83242lq5r.tmp",
     "_utility/csv/spreadsheets/items_objs.ods",
     "_utility/csv/spreadsheets/lu83242lq3a.tmp",
