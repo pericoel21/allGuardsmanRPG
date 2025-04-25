@@ -16,7 +16,7 @@ This is *All Guardsman Role Playing Game*, a Tabletop Roleplaying System designe
 ## Setting
 > *"Enough head-cannon to surprise veterans, and so little that players' ideas can be added on the fly."*
 
-- The setting is heavily inspired by the lore some famous sci-fi wargames.
+- The setting is heavily inspired by the lore of some famous sci-fi wargames.
 - The lore is supported in the mechanics, but only the broader strokes:
 	- A demigod Emperor on his throne, far away.
 	- A parallel dimension created by the emotion of people, populated by horrors.
