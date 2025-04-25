@@ -40,18 +40,19 @@ The order of play can be determined by counting successes on an arbitrary roll, 
 
 A roll is needed when a PC performs an action where success is not granted, and the PC is under stress, the action is complicated or the action's progress, quality or duration is a factor to be considered.
 
+There are three types of rolls: Checks, Tests and Opposed Rolls.
 > [!tip] Rolls in a nutshell
-> - **Roll a d100 under or equal to a Stat** tosucceed.
-> - **The Tier of Success ($)** is the **tens digit on a successful roll.**
+> - **Roll a d12 under or equal to a Stat** to succeed.
+> - **The Tier of Success ($)** is the **outcome of the dice.**
 > - **Check: pass or fail.** Tier ($) informs the quality of the success or the time it takes.
 > - **Test:** checks until the **Tier ($) meets an arbitrary number** (Tier of the Test).
-> - **Opposed Roll:** Rarely used. Useful for PvP situations.
+> - **Opposed Roll:** Rarely used. Useful for PvP situations. **Compare two Checks.**
 
-> [!info] Some considerations
-> - This system **uses 00 and not 100** as a possible outcome of a dice roll.
-> - **96 to 99** are always **failures.**
+> [!info] Some considerations:
+> - **12s** are always **failures.**
 > - **Failure leads to negative consequences** in any roll.
 > - Success Tiers can inform **roleplaying and mechanical consequences.**
+
 ## Tags
 Check [[system/core-mechanics/tags|Tags]]
 

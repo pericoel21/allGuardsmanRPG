@@ -41,30 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/players-guide/players-guide.md",
-                "mode": "source",
-                "source": false
+                "file": "system/core-mechanics/clocks.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "players-guide"
+              "title": "clocks"
             }
           },
           {
-            "id": "cbd1c61ebb2cdf86",
+            "id": "f31a55ed8708cf89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/core-mechanics/tag-metallic-colors.md",
+                "file": "system/core-mechanics/basic-mechanics.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "tag-metallic-colors"
+              "title": "basic-mechanics"
+            }
+          },
+          {
+            "id": "ae0bdf536266419c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/core-mechanics/rolling-dice.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "rolling-dice"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,13 +240,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ba1870d92eabf4c0",
+  "active": "524cb82120db0b6a",
   "lastOpenFiles": [
+    "system/gm-section/using-clocks.md",
+    "system/core-mechanics/clocks.md",
+    "system/core-mechanics/rolling-dice.md",
+    "system/core-mechanics/basic-mechanics.md",
     "system/players-guide/players-guide.md",
-    "README.md",
-    "system-dev/roadmap-to-do.md",
-    "control-panel.canvas",
+    "system-dev/references.md",
     "system/core-mechanics/tag-metallic-colors.md",
+    "system-dev/roadmap-to-do.md",
+    "README.md",
+    "control-panel.canvas",
     "system/core-mechanics/tags.md",
     "system/objs/tag-list/tag-list.md",
     "system/core-mechanics/pc-stats.md",
@@ -254,12 +273,8 @@
     "_utility/csv/spreadsheets/lu9191352u3.tmp",
     "system/core-mechanics/tag-classes.md",
     "system/core-mechanics/defense-check.md",
-    "system/core-mechanics/clocks.md",
     "system/core-mechanics/pain-wounds.md",
-    "system/core-mechanics/pc-progression.md",
-    "system/core-mechanics/pc-creation.md",
     "_utility/csv/spreadsheets/lu9191352fc.tmp",
-    "system/core-mechanics/attack-check.md",
     "_utility/csv/spreadsheets/lu83242lq5r.tmp",
     "_utility/csv/spreadsheets/items_objs.ods",
     "_utility/csv/spreadsheets/lu83242lq3a.tmp",
