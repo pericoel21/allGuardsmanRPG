@@ -24,16 +24,16 @@ Stuff at usable level, not finished (`#untested` tag). Solo / small scale play.
 - [x] PC creation
 - [x] Stats
 - [x] NPCs / enemies
-- [ ] Clocks (basics)
+- [x] Clocks (basics)
 - [x] Order of play
 - [ ] Combat (Polish it well!)
 	- [x] Defense Checks
 	- [x] Attacking
 	- [x] Fumbles
 	- [x] Crits
-	- [ ] Movement action
+	- [x] Movement action
 	- [x] Turn order (combat)
-	- [ ] Initiative
+	- [x] Initiative
 	- [x] trickshots
 	- [x] aiming
 - [x] Wounds and Health

@@ -15,32 +15,49 @@ status:
   - needs-revision
 ---
 # Combat
-> See [[social-conflict]], [[hit-points]], [[pain-wounds]]
+> [!info] See [[social-conflict]], [[hit-points]], [[pain-wounds]]
 
-
+In this page rules for combat are explained. It is possible to translate the same rules to structure a conflict of social nature.
 ## Turn order in combat
-determine turn order (initiative) each round
+> [!info] See [[order-of-play]]
+
+A combat round is measured in Moments, and to determine the order of play, an Initiative roll is required:
+
+| Order | Who goes?                                                   |
+| ----- | ----------------------------------------------------------- |
+| 1st   | **PCs who succeed** the Initiative Check.                   |
+| 2nd   | Regular **GM Turn**. Enemies, traps...                      |
+| 3rd   | **PCs who fail** the initiative Check **without Fumbling**. |
+| 4th   | **GM Turn**. More enemies, environment.                     |
+| 5th   | **PCs who Fumbled** on the Initiative roll.                 |
 
 ## Actions
-> See [[space-tiers]], [[movement-action]], [[attack-check]], [[trickshots]], [[aiming]], [[attack-check]]
+> [!info] See [[space-tiers]], [[movement-action]], [[attack-check]], [[trickshots]], [[aiming]], [[attack-check]], [[pain-wounds]]
 
-
+In Combat, a PC can do two actions on each of their turns. They can choose from the following four options, and they can repeat the same option twice:
 ### Movement
+- Move **up to Close**.
+- Using the **Movement intelligently or dynamically** might translate into **bonuses**.
+- A **Movement Roll** might be needed.
+- A **bad positioning or a failed Movement Roll** might impose **penalties**.
 
 ### Basic Attacks
-- The Tier of the Check is the Toughness of the enemy. The Tier of Success is the damage applied. Pain and wounds work like in PCs
+- The **Tier of the Check** is the **Toughness of the enemy**.
+- The **Tier of Success** is the **Damage** applied.
+- Enemy's Pain and Wounds work like in PCs.
 
 ### Trickshot
-**Attack made to an specific part of the target, or in a very specific way.** The intent could just be to **make more damage,** but a Trickshot can also be used to **hinder** the enemy.
+- **Attack made to an specific part of the target, or in a very specific way.**
+- The intent could just be to **make more damage**.
+- A Trickshot can also be used to **hinder** the enemy, imposing **Tags**.
 
 ### Aiming
-**Upgrades a future attack**.
-To aim, a PC performs a **Test** where they **accumulate successes** that influence the next attack.
-
-Although any stat can be used in theory, **[[awareness|Awareness]] is employed most of the time**, with a second usual Stat being [[intelligence|Intelligence]].
+- **Upgrades a future attack**.
+- To aim, a PC performs a **Test** where they **accumulate successes** that influence the next attack.
+- Although any stat can be used in theory, **[[awareness|Awareness]] is employed most of the time**, with a second usual Stat being [[intelligence|Intelligence]].
 
 ### Initiative Check
-An [[initiative-check|Initiative Check]] is performed at the start of some situations like combat, to determine the Order of Play, but more can be done to better the position of a specific PC.
+- The first initiative Check, at the beginning of the combat, doesn't count as an action,
 
 ## Defending from an Attack
 > See [[defense-check]], [[hit-points]], [[pain-wounds]]

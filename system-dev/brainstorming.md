@@ -18,6 +18,7 @@ I'm looking for:
 - Traits that discount XP to increase a stat
 - Petty items = quantum inventory
 - Psykers use tier die
+- 2 actions in combat. Maybe 2 actions per turn always?
 ### Tags
 - PC thinks they are on a reality show and talk to an imaginary camera
 - Clerics: Chaos related tag
@@ -34,5 +35,6 @@ I'm looking for:
 - If the game is space australia, i need a space crocodile dundee
 - T'auva
 - Horned Rat
+- Warp gate location
 - Ridiculous titles. Maybe table? Examle: Junior Honoriffic Assistant Arbites liason officer of the Planetary Defense Force
 - Mechanicus that fake the discovery of a STC to innovate without being labelled heretics.

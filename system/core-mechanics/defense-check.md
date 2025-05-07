@@ -95,12 +95,6 @@ A defense roll can have **bonuses**:
 > - The PC is hidden.
 > - The enemy is trying to shoot while being assaulted by someone else.
 
-### Possible penalties and bonuses
-Considering the situations that might benefit or hindering the PC might result in the GM imposing some modifiers on the Defense Check:
-- **Modifying the Tier** of the Check to defend (up or down).
-- Imposing **Advantage or Disadvantage**.
-- Some situations can be so beneficial for the PC that the attack is considered an **automatic failure.**
-- Some situations might make **one specific stat as the only option for rolling defense.**
 
 ### Inability to Defend actively
 One special case for the Defense Check is a **situation where a PC cannot act**, therefore **not being able to defend themselves**.

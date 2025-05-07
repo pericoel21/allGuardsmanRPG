@@ -63,5 +63,4 @@ Several clocks can be in place:
 
 ## More complex clocks
 - **Up and Down Clocks**: A Clock's Ticks could be **emptied by the action of the characters**, especially if the Consequence is very severe. It is recommended that this Consequence is known by the PCs, so they can work against its fulfillment.
-- **Clocks for downtime**: Clocks can be **used outside the regular session play**. Factions' developments or broader events in the world can be tracked by the use of Clocks too.
-- PC created clocks:
+- **Clocks for [[downtime]]**: Clocks can be **used outside the regular session play**. Factions' developments or broader events in the world can be tracked by the use of Clocks too.

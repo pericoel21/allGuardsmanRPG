@@ -13,22 +13,22 @@ aliases:
   - Checks
   - Advantage
   - Disadvantage
-  - Position & Effect
 abstract: Rolling 101, position & effect, advantage & disadvantage, difficulty
 status:
   - untested
   - wip
 ---
 # Rolling the Dice
-A roll is needed when a PC performs an action where success is not granted, and:
- - The PC is under stress.
- - The action is complicated.
- - The action's progress, quality or duration is a factor to be considered.
+A roll is needed **when a PC performs an action where success is not granted**, and:
+ - The PC is under **stress**.
+ - The action is **complicated**.
+ - The action's **progress, quality or duration is a factor to be considered**.
 
 > [!danger] When not to roll
 > Don't roll for actions which a specific PC should do easily, or when a failure would't result in an interesting complication.
 
- There are three types of rolls: Checks, Tests and Opposed Rolls.
+ There are **three types of rolls**: *Checks*, *Tests* and *Opposed Rolls*.
+ 
 > [!tip] Rolls in a nutshell
 > - **Roll a d12 under or equal to a Stat** to succeed.
 > - **The Tier of Success ($)** is the **outcome of the dice.**
@@ -41,21 +41,45 @@ A roll is needed when a PC performs an action where success is not granted, and:
 > - **Failure leads to negative consequences** in any roll.
 > - Success Tiers can inform **roleplaying and mechanical consequences.**
 
+
+
+## Before rolling: Position & Effect
+> [!info] See [[position-effect]]
+
+In order to roll a Check or a Test, a discussion must take place between all players at the table. The outcome of this discussion, however brief it is, must answer:
+- ¿**What does the player want** their PC to do?
+- ¿**What does a success grant**, in the eyes of the player?
+- ¿What **negative outcomes** can a failure bring?
+- ¿What **factors** are acting in favor or against the PC?
+
+Knowing the answers to this questions mean using extra mechanics when rolling:
+
+| Factor                                                        | Mechanic                                                 |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| Very relevant difficulty / advantage, not expressed by Tags   | Advantage or Disadvantage                                |
+| Item properties, PC traits, environmental factors             | Tags                                                     |
+| Difficulty, length or duration of the task                    | $ needed                                                 |
+| Extreme Difficulty or illogical expectations                  | Automatic Failure                                        |
+| Situation with no tension or extremely easy or routine action | Automatic Success                                        |
+| Extremely specific situation                                  | Specific Stat or a set of specific Stats must be choosen |
 ## The roll
 A player **describes the action** a PC is performing and **selects the Stat** that better represents that action. Then, the player must roll a **d12** die. The roll is successful if the outcome is **equal or under the selected Stat, plus bonuses.**
 
 ### Tier of Success
-> [!info] See more in [[system/core-mechanics/tags|Tier System]].
+> [!info] See more in [[tier-system]].
 
 Whether a PC is performing a Check or a Test, the degree of effectiveness of their successes is measured by the **Tier of Success.**
 - The **Tier of Success** is represented by the **$** symbol.
 - On a successful roll, the **Tier of Success ($)** equals **the number** on the die.
+- To completely succeed on a Check, the Tier of Success must be equal or greater to the Tier of the Check.
 
 ### Failure and consequences
+> [!info] See [[clocks]], [[combat]]
+
 A failure is a roll where the **outcome of the d12 is greater than the Stat** selected by the player (plus bonuses). A failure might have direct or indirect consequences:
-- Many **locations have [[clocks]]** associated with them. **Each failure ticks a segment** of the clock. Once it is completed, a **negative event** happens.
-- In other situations, failure might entail direct consequences.
-- In [[combat]], a failure when dodging means a PC suffers an attack.
+- Many **locations have Clocks** associated with them. **Each failure ticks a segment** of the clock. Once it is completed, a **negative event** happens.
+- In other situations, **failure might entail direct consequences**.
+- In combat, a failure when dodging means a PC suffers an attack.
 
 #### Criticals and Fumbles
 - A *Critical* is a roll with the maximum outcome possible for it to be a sucess.
@@ -79,7 +103,7 @@ Sometimes, the **Check Tier** might be greater than 1$. The check **only succeed
 Some **negative consequences might be avoided** if the roll succeeds (equal or under a Stat) but **doesn't meet the Check Tier**.
 
 > [!danger] Something to avoid
-> If the check can be repeated, it might be better to rule it as a Test, where the conditions for success or failure, and for keeping or discarding $, are better taken into account.
+> If the check **can be attempted several times**, it might be better to rule it as a **Test**. In a Test the conditions for success or failure and for keeping or discarding $ are better taken into account.
 
 > [!info] About Check Tiers greater than 1
 > Usually, the Checks where the needed Tier of Success is greater than 1 come from mechanics like Dodging in combat, where a character might need to roll $ equal or greater than the enemies' capability of attacking.
@@ -87,14 +111,16 @@ Some **negative consequences might be avoided** if the roll succeeds (equal or u
 > Calling for Checks with Check Tiers greater than 1 can be done in an improvised manner, but it is not a crucial part of the game.
 
 ## The Test
+> See [[helping-teamwork]]
+
 The test is a roll that measures the degree of completion of an action over time.
-- The **Test Tier** is the Success Tier required to pass a Test.
-- To fully succeed at a Test, the PC needs to accumulate a **Success Tier equal to the Tier of the Test.**
+- The **Test Tier** is the **Success Tier required to pass** each Check that composes a Test.
+- To fully succeed at a Test, the PC needs to accumulate a **Success Tier equal to the Tier of the Test** during **several successful Checks**.
 - The Success Tier **can be accumulated during several rounds** of play as long as the PC **doesn't fail.**
-- The Success Tier can also be **accumulated by several PCs** ([[helping-teamwork]]) if narratively appropriate.
+- The Success Tier can also be **accumulated by several PCs** if narratively appropriate.
 
 > [!info] GMs: Give Feedback about $
-> Succeeding rolls in a test should have an in-world meaning besides the meta concern of accumulating $. The characters must have a diegetic reason to keep doing the action, something that explains why do they "keep at it" instead of trying something different.
+> **Succeeding** Checks in a test should have an **in-world meaning** besides the meta concern of accumulating $. The characters must **have a diegetic reason to keep doing the action**, something that explains why do they "keep at it" instead of trying something different.
 > 
 > This also puts the PCs and the players in the same page: both know they're making progress. This way, communicating the required $ to the players might not be needed because they know, in character, that the task is completed when narratively appropriate.
 
@@ -113,7 +139,7 @@ If a **roll completely fails** (outcome is over the Stat plus bonuses), there ar
 #### Benevolent tests
 This style of tests have less severe consequences:
 - In some cases, the Test might be attempted an infinite number of times.
-- In some cases, a failure might subtract Success Tiers.
+- In other cases, a failure might subtract Success Tiers.
 
 > [!example]
 > Gambling machine: pull the lever as many times as you want, if you pay.
@@ -134,82 +160,6 @@ For some tests, it might be interesting to have a [[clocks|Clock]] tracking the 
 ### Countdown test
 Fill a clock vs npcs that empty it
 
-## Position & Effect
-Position & Effect are two concepts introduced in *Blades in the Dark.* They describe any narrative element which has a mechanical consequence when a roll is made.
-
-> [!info] Position & Effect in a nutshell
-> The roll is negotiated before dice are thrown, determining:
-> - What the players and GM **expected outcome** of the action is.
-> - Physical & emotional **situation of the PCs.**
-> - **External factors:** How the environment, obstacles and NPCs factor in the roll.
-> - **Tags:** How equipment and other factors factor in the roll
-> - What **possible outcomes** can happen, in broad strokes.
-
-In order to roll a Check or a Test, a discussion must take place between all players at the table. The outcome of this discussion, however brief it is, must answer:
-- ¿What does the player want their PC to do?
-- ¿What does a success grant, in the eyes of the player?
-- ¿What negative outcomes can a failure bring?
-- ¿What factors are acting in favor or against the PC?
-
-Knowing the answers to this questions mean using extra mechanics when rolling:
-
-| Factor                                                      | Mechanic                  |
-| ----------------------------------------------------------- | ------------------------- |
-| Very relevant difficulty / advantage, not expressed by Tags | Advantage or Disadvantage |
-| Item properties, PC traits, environmental factors           | Tags                      |
-| Difficulty, length or duration of the task                  | $ needed                  |
-
-
-### Success Tier needed
-Within the discussion about Position & Effect, one of the most important mechanical elements to be determined is the Tier of Success. Although Checks may need more than 1$ too, it is especially vital for Tests.
-
-| $   | Use for a Check                      | Use for a Test                              |
-| --- | ------------------------------------ | ------------------------------------------- |
-| 1   | Standard                             |                                             |
-| 2   | Standard with some "umpf"            |                                             |
-| 3   | Difficult                            | Standard easy                               |
-| 4   |                                      |                                             |
-| 5   |                                      |                                             |
-| 6   |                                      | Standard hard                               |
-| 7   | Challenge for an expert on that task |                                             |
-| 8   |                                      |                                             |
-| 9   |                                      | Long, difficult task that requires teamwork |
-| 10  | Hail Mary action                     |                                             |
-| 11  |                                      |                                             |
-| 12  |                                      | Task that involves many other smaller tasks |
-
-
-### Advantage & Disadvantage
-Specific situations might impose Advantage or Disadvantage on a roll. This represent a complication or difficulty which stands from the environment or the emotional situation.
-- Imposing both advantage or disadvantage on a roll **cancel each other one to one.**
-- Several Advantages or Disadvantages **can be stacked.**
-- Advantage is denoted with **/+/** and a number in front (if more than 1).
-- Disadvantage is denoted with **/-/** and a number in front (if more than 1).
-
-> [!example]
-> **2/+/** is a roll with **2 Advantages.**
-> **/-/** is a roll with **1 Disadvantage.**
-> A roll with 3/+/ and 2/-/ results in a roll with **/+/ (1 Advantage).**
-
-> [!tip] When to use it
-> Note that Advantage and Disadvantage **make any roll much more likely to succeed or fail, respectively.**
-> 
-> Although advantage and disadvantage can stack, it is better to **consider well what is the most determinant factor in the roll.**
-> Then, **see if a tag could better represent it,** and if the factor is so important that /+/ or /-/ is really needed.
-#### Rolling with Advantage or Disadvantage.
-1. The Player **rolls a number of times** equal to the /+/ or /-/.
-2. The Player **picks one of the outcomes:**
-	- The **worst** if rolling with **Disadvantage.**
-	- The **best** if rolling with **Advantage.**
-> [!info] Outcome hierarchy
-> Regardless of the number:
-> - A Critical Success is always better than a Success.
-> - A Success is always better than a Failure.
-> - A Failure is always better than a Critical Failure.
-
-> [!example]
-> When rolling **3/+/,** a player **rolls thrice** and obtains **96, 21, 11** for a stat with 43 points. The player **selects the 11 outcome,** as it is a **critical success.**
-> When rolling **/-/,** a player rolls two d100 and obtains **77 and 94** for a stat with 50 points. Both are failures, but **the 77 is a critical failure,** so the player **must choose it.**
 
 ## Tags and Rolls
 Depending on the type of [[system/core-mechanics/tags|tags]].......
