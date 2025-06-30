@@ -16,7 +16,7 @@ abstract: Pain, Wounds and Recovery. All things HP
 status:
   - todo
 ---
-# Pain, Wounds & Recovery
+# Pain & Wounds
 > See [[pc-stats]], [[npcs]], [[recovery-scars]], [[pc-progression]]
 
 ## Pain & Pain Threshold

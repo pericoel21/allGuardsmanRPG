@@ -48,5 +48,6 @@ Shifting the Tier of a Tag is a Tier modification method that complicates the pr
 Use Tier Shifting when it is more fun to play the slow process of changing the Tag because that Tag represents something important in the narrative.
 
 When Shifting Tiers, there is a **cost**. It is usually **paid in Tiers of Success ($)**.
+
 > [!tip] Cost of Tier Shifting
 > When going from *Tier X* to *Tier Y*, the cost is $X + Y$, usually in Tiers of Success ($) of a roll.

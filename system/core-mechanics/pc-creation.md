@@ -36,7 +36,7 @@ This system has a few interesting concepts about the way it handles Player chara
 
 ### Rolling Stats
 - **Luck:** A fresh PC starts with d4 as their [[luck|Luck]] Tier.
-- **Chaos:** A fresh PC starts with a [[chaos|Chaos]] score of 20.
+- **Chaos:** A fresh PC starts with a [[corruption-chaos-intrusive-thoughts|Chaos]] score of 20.
 - **[[connections|Connections]] and [[wealth|Wealth]]:** Both start at Tier 1.
 
 **For every other stat** do the following in order:

@@ -18,7 +18,7 @@ status:
 ## Rolling the Dice of Doom
 1. Each player and the GM roll a d12.
 2. All the rolls are openly compared.
-3. Dice might be re-rolled by gaining [[chaos]].
+3. Dice might be re-rolled by gaining [[corruption-chaos-intrusive-thoughts]].
 ## Results
 
 | Name        | Explaination                                                          | Result                                           |

@@ -20,7 +20,7 @@ The Stats of a Player Character define their mental and physical aptitudes and t
 
 | Physical Stats   | Mental Stats     | Status Stats                   | Social Standing Stats |
 | ---------------- | ---------------- | ------------------------------ | --------------------- |
-| [[strength]]     | [[awareness]]    | [[chaos]]                      | [[connections]]       |
+| [[strength]]     | [[awareness]]    | [[corruption-chaos-intrusive-thoughts]]                      | [[connections]]       |
 | [[dexterity]]    | [[intelligence]] | [[pain-wounds\|Pain & Wounds]] | [[wealth]]            |
 | [[constitution]] | [[willpower]]    | [[luck]]                       |                       |
 ## Uses of stats
@@ -33,7 +33,7 @@ The Stats of a Player Character define their mental and physical aptitudes and t
 | [[awareness]]                    | Reading the room. Perception. Reflexes. Good vision. Sniper weapons. Raw Psyker power. Moment-to-moment strategy. Finding clues. |
 | [[intelligence]]                 | Knowledge & Will. Learning speed. Psyker ability. Sciences, engeniering. Theoretical strategy.                                   |
 | [[willpower]]                    | Instinct. Psyker resiliance. Animal handling. Leadership. Mental HP                                                              |
-| [[chaos]]                        |                                                                                                                                  |
+| [[corruption-chaos-intrusive-thoughts]]                        |                                                                                                                                  |
 | [[hit-points]]                   |                                                                                                                                  |
 | [[pain-wounds\|Wounds]] |                                                                                                                                  |
 | [[luck]]                         |                                                                                                                                  |

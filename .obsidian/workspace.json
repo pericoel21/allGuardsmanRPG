@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdc7174aba868fe",
+        "id": "891bd949ef244138",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5f288511da7a47",
+            "id": "2f5baf7e5aaf3339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wishlist.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Wishlist"
-            }
-          },
-          {
-            "id": "c235d456741c1394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC backup & restore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PC backup & restore"
-            }
-          },
-          {
-            "id": "7727d64ec3b3c807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pamplona Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pamplona Tasks"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,35 +177,37 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7727d64ec3b3c807",
+  "active": "2f5baf7e5aaf3339",
   "lastOpenFiles": [
-    "Pamplona Tasks.md",
-    "PC backup & restore.md",
-    "Wishlist.md",
-    "Prácticas.md",
-    "Knowledge bases/Tech support/DSLR Camera Webcam.md",
-    "Knowledge bases/Tech support/DigiKam multiple libraries.md",
-    "Curriculum Vitae.md",
-    "Knowledge bases/Tech support/Mouse configuration.md",
-    "Untitled.md",
-    "GitHub for RPG systems.md",
+    "lore/metaphysical-entities-warp.md",
+    "system-dev/roadmap-to-do.md",
+    "system/core-mechanics/tag-pentachrome-colors.md",
+    "system/core-mechanics/corruption-chaos-intrusive-thoughts.md",
+    "system/core-mechanics/pain-wounds.md",
+    "system/core-mechanics/awareness.md",
+    "system/core-mechanics/time-tiers.md",
+    "system/core-mechanics/stats",
+    "system/core-mechanics/tier-shifting.md",
+    "system/core-mechanics/tier-system.md",
+    "system/core-mechanics/movement-action.md",
+    "system/gm-section/dungeoneering.md",
+    "system/core-mechanics/cost-tiers.md",
+    "system/core-mechanics/core-mechanics.md",
+    "system/players-guide/players-guide.md",
+    "control-panel.canvas",
+    "system-dev/brainstorming.md",
+    "system-dev/about-headcanon.md",
+    "system-dev/testing.md",
+    "system-dev/stats-generation-upgrading.md",
+    "system/core-lists/tag-list/core-feat-tag/lucky.md",
+    "system/objs/tag-list/core-strict-tag-objs/Untitled.md",
+    "system/core-lists/tag-list/core-feat-tag/automatic-fire.md",
+    "system/core-lists/tag-list/core-feat-tag/mega-successes.md",
+    "system/core-mechanics/aiming.md",
+    "system/core-mechanics/initiative-check.md",
+    "system/core-mechanics/happy-idea.md",
+    "position-effect.md",
     "Nombres/Nombres.canvas",
-    "Steps for animation exercise.md",
-    "Fleeting notes/Metal Chop Drums.md",
-    "Nombres/HYPRAGGRESSOR.md",
-    "Nombres/Karkaradork.md",
-    "Nombres/Plane of Poetry.md",
-    "Nombres/The Brownian Motions.md",
-    "Nombres/Diplomaticannon.md",
-    "Nombres/Onirocritica.md",
-    "Nombres/Narratipo.md",
-    "Nombres/Bed Side Mannor.md",
-    "Nombres/Astroberto.md",
-    "Nombres/Lady Escorada.md",
-    "Nombres/Roll for Grave.md",
-    "Nombres/Wireless fidewá.md",
-    "Nombres/Villa montaña.md",
-    "Nombres/Viceroy Merlin.md",
     "Utility/Files/sofia_consent.pdf",
     "Utility/Files/Character_ref1.png",
     "Nombres",
@@ -255,12 +224,10 @@
     "Knowledge bases/Projects",
     "Knowledge bases/Terapia",
     "Knowledge bases",
-    "Chats",
     "Knowledge bases/RPG/Blades in the Dark/BitD Database/Scores/Steal the Leviathan Eye.canvas",
     "Knowledge bases/RPG/Blades in the Dark/BitD Database/Scores/The Crow's Nest.canvas",
     "Utility/Files/wolztpip.bmp",
     "Utility/Files/o9nt52iw.bmp",
-    "Knowledge bases/RPG/Prep Tools.canvas",
     "Utility/Files/Capture.png",
     "Utility/Files/e90acd2520a4d108ee79bbfb37ceee0d 1.jpg",
     "Utility/Files/e90acd2520a4d108ee79bbfb37ceee0d.jpg",

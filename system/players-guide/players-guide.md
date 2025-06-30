@@ -40,7 +40,7 @@ In general, you can use any Stat to perform any action. What is important is tha
 
 | Physical Stats   | Mental Stats     | Status Stats                   | Social Standing Stats |
 | ---------------- | ---------------- | ------------------------------ | --------------------- |
-| [[strength]]     | [[awareness]]    | [[chaos]]                      | [[connections]]       |
+| [[strength]]     | [[awareness]]    | [[corruption-chaos-intrusive-thoughts]]                      | [[connections]]       |
 | [[dexterity]]    | [[intelligence]] | [[pain-wounds\|Pain & Wounds]] | [[wealth]]            |
 | [[constitution]] | [[willpower]]    | [[luck]]                       |                       |
 
