@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"d3d822aec4f6ee7d","type":"file","file":"system-dev/brainstorming.md","x":-640,"y":-420,"width":640,"height":1060},
-		{"id":"0ff432eef2d5d762","x":60,"y":-420,"width":660,"height":1060,"type":"file","file":"system-dev/roadmap-to-do.md"}
+		{"id":"0ff432eef2d5d762","type":"file","file":"system-dev/roadmap-to-do.md","x":60,"y":-420,"width":660,"height":1060}
 	],
 	"edges":[]
 }

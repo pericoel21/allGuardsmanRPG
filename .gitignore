@@ -1,2 +1,12 @@
 # ignore the .obsidian folder
-.obsidian
+.obsidian/snippets
+.obsidian/themes
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/switcher.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+adventures

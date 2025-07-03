@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "system": "multitext",
+    "Playbook": "multitext",
+    "Load": "number",
+    "Start date": "date",
+    "End date": "date",
+    "Tier": "number",
+    "Date": "date",
+    "unit number": "number",
+    "Subject": "multitext",
+    "Type": "multitext",
+    "Keywords": "multitext",
+    "Status": "multitext",
+    "Author": "multitext"
+  }
+}
